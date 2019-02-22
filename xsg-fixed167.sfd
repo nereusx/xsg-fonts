@@ -5,8 +5,8 @@ FamilyName: XSG Fixed 167
 Weight: Bold
 Copyright: Copyright (C) 2015 Nicholas Christopoulos (nereus@freemail.gr)
 UComments: "2015-5-18: Created with FontForge (http://fontforge.org)+AAoA-2016-10-27: fixed 128-255 symbols that moved at console+AAoA-2016-10-29: more drawing symbols"
-Version: 1.3
-DefaultBaseFilename: xsg-fixed167-b
+Version: 1.4
+DefaultBaseFilename: xsg-fixed167
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431934799
-ModificationTime: 1477754011
+ModificationTime: 1550816913
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: 16
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 646 38 17
+WinInfo: 0 38 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 436207 218103 145402 0 1048576 145402 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -8738,7 +8738,7 @@ StartChar: Cdotaccent
 Encoding: 266 266 960
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 197 729 N 1 0 0 1 0 60 2
@@ -8749,7 +8749,7 @@ StartChar: cdotaccent
 Encoding: 267 267 961
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 197 729 N 1 0 0 1 0 60 2
@@ -8760,7 +8760,7 @@ StartChar: Ccaron
 Encoding: 268 268 962
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 195 711 N 1 0 0 1 0 60 2
@@ -8771,7 +8771,7 @@ StartChar: ccaron
 Encoding: 269 269 963
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 195 711 N 1 0 0 1 0 60 2
@@ -8782,7 +8782,7 @@ StartChar: Dcaron
 Encoding: 270 270 964
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 195 711 N 1 0 0 1 0 60 2
@@ -8804,7 +8804,7 @@ StartChar: Emacron
 Encoding: 274 274 966
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 109 175 N 1 0 0 1 0 60 2
@@ -8815,7 +8815,7 @@ StartChar: emacron
 Encoding: 275 275 967
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 109 175 N 1 0 0 1 0 60 2
@@ -8826,7 +8826,7 @@ StartChar: Ebreve
 Encoding: 276 276 968
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 728 N 1 0 0 1 0 60 2
@@ -8837,7 +8837,7 @@ StartChar: ebreve
 Encoding: 277 277 969
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 728 N 1 0 0 1 0 60 2
@@ -8848,7 +8848,7 @@ StartChar: edotaccent
 Encoding: 279 279 970
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 197 729 N 1 0 0 1 0 60 2
@@ -8859,7 +8859,7 @@ StartChar: Edotaccent
 Encoding: 278 278 971
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 197 729 N 1 0 0 1 0 60 2
@@ -8870,7 +8870,7 @@ StartChar: Ecaron
 Encoding: 282 282 972
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 195 711 N 1 0 0 1 0 60 2
@@ -8881,7 +8881,7 @@ StartChar: ecaron
 Encoding: 283 283 973
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 195 711 N 1 0 0 1 0 60 2
@@ -8892,7 +8892,7 @@ StartChar: Gcircumflex
 Encoding: 284 284 974
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 194 710 N 1 0 0 1 0 60 2
@@ -8903,7 +8903,7 @@ StartChar: gcircumflex
 Encoding: 285 285 975
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 194 710 N 1 0 0 1 0 60 2
@@ -8914,7 +8914,7 @@ StartChar: Gbreve
 Encoding: 286 286 976
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 728 N 1 0 0 1 0 60 2
@@ -8925,7 +8925,7 @@ StartChar: gbreve
 Encoding: 287 287 977
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 728 N 1 0 0 1 0 60 2
@@ -8936,7 +8936,7 @@ StartChar: Gdotaccent
 Encoding: 288 288 978
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 197 729 N 1 0 0 1 0 60 2
@@ -8947,7 +8947,7 @@ StartChar: gdotaccent
 Encoding: 289 289 979
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 197 729 N 1 0 0 1 0 60 2
@@ -8958,7 +8958,7 @@ StartChar: uni0122
 Encoding: 290 290 980
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 192 700 N 1 0 0 1 0 -60 2
@@ -8969,7 +8969,7 @@ StartChar: uni0123
 Encoding: 291 291 981
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 191 699 N 1 0 0 1 0 60 2
@@ -8980,7 +8980,7 @@ StartChar: Hcircumflex
 Encoding: 292 292 982
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 194 710 N 1 0 0 1 0 60 2
@@ -8991,7 +8991,7 @@ StartChar: hcircumflex
 Encoding: 293 293 983
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 194 710 N 1 0 0 1 0 60 2
@@ -9002,7 +9002,7 @@ StartChar: Itilde
 Encoding: 296 296 984
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 732 N 1 0 0 1 0 60 2
@@ -9013,7 +9013,7 @@ StartChar: itilde
 Encoding: 297 297 985
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 199 732 N 1 0 0 1 0 60 2
@@ -9024,7 +9024,7 @@ StartChar: Imacron
 Encoding: 298 298 986
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 109 175 N 1 0 0 1 0 60 2
@@ -9035,7 +9035,7 @@ StartChar: imacron
 Encoding: 299 299 987
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 109 175 N 1 0 0 1 0 60 2
@@ -9046,7 +9046,7 @@ StartChar: Ibreve
 Encoding: 300 300 988
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 728 N 1 0 0 1 0 60 2
@@ -9057,7 +9057,7 @@ StartChar: ibreve
 Encoding: 301 301 989
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 728 N 1 0 0 1 0 60 2
@@ -9068,7 +9068,7 @@ StartChar: uni0136
 Encoding: 310 310 990
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 192 700 N 1 0 0 1 0 -60 2
@@ -9079,14 +9079,14 @@ StartChar: uni0137
 Encoding: 311 311 991
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 192 700 N 1 0 0 1 0 -60 2
 Refer: 75 107 N 1 0 0 1 0 0 3
 EndChar
 EndChars
-BitmapFont: 16 995 14 2 1 xsg
+BitmapFont: 16 993 14 2 1 xsg
 BDFStartProperties: 27
 FONT 1 "-xsg-XSG Fixed 167-Bold-B-Normal--14-140-72-72-C-80-ISO10646-1"
 SIZE 1 "14 72 72"
@@ -9125,8 +9125,8 @@ BDFChar: 2 34 7 0 4 7 11
 f\"j/:]LIq
 BDFChar: 3 35 7 0 5 0 11
 BP;)WBP;'mr+KbW
-BDFChar: 4 36 7 0 5 -1 11
-0JInDnF1Zb4?WBm0E;(Q
+BDFChar: 4 36 7 0 5 0 11
+0JIaqi,CXqb]kfq
 BDFChar: 5 37 7 0 5 0 11
 m&]Oj(bdXO@,08e
 BDFChar: 6 38 7 0 5 0 10
@@ -9141,8 +9141,8 @@ BDFChar: 10 42 7 0 5 3 7
 b]s&1bQ%VC
 BDFChar: 11 43 7 0 5 2 8
 0JG3Y0JG0\
-BDFChar: 12 44 7 1 3 -2 0
-?spbM
+BDFChar: 12 44 7 1 3 -2 1
+?smBX
 BDFChar: 13 45 7 0 5 5 5
 qu?]s
 BDFChar: 14 46 7 2 3 0 1
@@ -9169,10 +9169,10 @@ BDFChar: 24 56 7 0 5 0 11
 Gg+CUb]q@Ubfn:U
 BDFChar: 25 57 7 0 5 0 11
 Gg+CUbfn:Y%*Zq?
-BDFChar: 26 58 7 2 3 0 5
-^q]pM^q]pM
-BDFChar: 27 59 7 1 3 -1 5
-?sis7?spbM
+BDFChar: 26 58 7 2 3 0 8
+^q]pM!!!#7^]4?7
+BDFChar: 27 59 7 1 3 -2 8
+?sis7!!!",?spbM
 BDFChar: 28 60 7 0 5 0 8
 $lC[+^gJi5$ig8-
 BDFChar: 29 61 7 0 5 3 6
@@ -9241,8 +9241,8 @@ BDFChar: 60 92 7 0 5 0 11
 ^qd`n?na8O(^pf]
 BDFChar: 61 93 7 1 4 0 11
 n1ZOM0JG170JG3M
-BDFChar: 62 94 7 1 3 9 11
-5iA:8
+BDFChar: 62 94 7 0 4 5 11
++E7)u+<Vd,
 BDFChar: 63 95 7 0 6 -1 -1
 rVuou
 BDFChar: 64 96 7 2 3 8 11
@@ -9305,8 +9305,8 @@ BDFChar: 92 124 7 2 3 0 11
 ^qdb$^qdb$^qdb$
 BDFChar: 93 125 7 0 4 -1 11
 i%Qi=0JF=t0JG17huE`W
-BDFChar: 94 126 7 0 4 10 11
-BWqI:
+BDFChar: 94 126 7 0 5 8 9
+FLV;N
 BDFChar: 95 161 7 2 3 0 11
 ^q]rc^qdb$^qdb$
 BDFChar: 96 162 7 0 4 -2 8
@@ -9367,8 +9367,8 @@ BDFChar: 123 189 7 0 4 1 8
 J;B:0:oFpb
 BDFChar: 124 190 7 0 4 1 9
 ^`Z0%i)$Xs&-)\1
-BDFChar: 125 191 7 0 4 0 11
-0JEJ\0JHnM^t@:Y
+BDFChar: 125 191 7 0 5 0 11
+0JEJ\0JHnM^s(#I
 BDFChar: 126 192 7 0 0 0 0
 z
 BDFChar: 127 193 7 0 0 0 0
@@ -9547,8 +9547,8 @@ BDFChar: 213 892 7 0 5 0 8
 3+Th?fYG:52uipY
 BDFChar: 214 893 7 0 5 0 8
 E0q%BC^^`>Du]k<
-BDFChar: 215 894 7 1 3 -1 5
-?sis7?spbM
+BDFChar: 215 894 7 1 3 -2 8
+?sis7!!!",?spbM
 BDFChar: 216 895 7 0 3 0 11
 0JG170JG170JG3=
 BDFChar: 217 896 7 0 5 0 11
@@ -9561,7 +9561,7 @@ BDFChar: 220 901 7 0 4 6 9
 (bbsB
 BDFChar: 221 902 7 0 0 0 0
 z
-BDFChar: 222 903 7 2 3 8 9
+BDFChar: 222 903 7 2 3 7 8
 ^q]pM
 BDFChar: 223 904 7 0 0 0 0
 z
@@ -11061,10 +11061,6 @@ BDFChar: 970 279 7 0 0 0 0
 z
 BDFChar: 971 278 7 0 0 0 0
 z
-BDFChar: -1 280 7 0 0 0 0
-z
-BDFChar: -1 281 7 0 0 0 0
-z
 BDFChar: 972 282 7 0 0 0 0
 z
 BDFChar: 973 283 7 0 0 0 0
@@ -11102,8 +11098,6 @@ z
 BDFChar: 989 301 7 0 0 0 0
 z
 BDFChar: 990 310 7 0 0 0 0
-z
-BDFChar: -1 309 7 0 0 0 0
 z
 BDFChar: 991 311 7 0 0 0 0
 z
