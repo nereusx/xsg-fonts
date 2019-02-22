@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550720722
-ModificationTime: 1550737935
+ModificationTime: 1550820285
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ NameList: AGL For New Fonts
 DisplaySize: 18
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 108 36 11
+WinInfo: 0 36 11
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 992
@@ -1479,32 +1479,44 @@ StartChar: egrave
 Encoding: 232 232 166
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 235 768 N 1 0 0 1 0 60 2
+Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eacute
 Encoding: 233 233 167
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 236 769 N 1 0 0 1 0 60 2
+Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecircumflex
 Encoding: 234 234 168
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 228 710 N 1 0 0 1 0 60 2
+Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edieresis
 Encoding: 235 235 169
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 102 168 N 1 0 0 1 0 60 2
+Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: igrave
@@ -1739,8 +1751,11 @@ StartChar: emacron
 Encoding: 275 275 197
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 109 175 N 1 0 0 1 0 60 2
+Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ebreve
@@ -1758,8 +1773,11 @@ StartChar: ebreve
 Encoding: 277 277 199
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 230 728 N 1 0 0 1 0 60 2
+Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Edotaccent
@@ -1777,8 +1795,11 @@ StartChar: edotaccent
 Encoding: 279 279 201
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 231 729 N 1 0 0 1 0 60 2
+Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ecaron
@@ -1796,8 +1817,11 @@ StartChar: ecaron
 Encoding: 283 283 203
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 229 711 N 1 0 0 1 0 60 2
+Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gcircumflex
@@ -8462,11 +8486,11 @@ f\"j/:]LIq
 BDFChar: 3 35 9 0 6 0 12
 Ci!qeCi!p(D#S6eC]FG8
 BDFChar: 4 36 9 0 7 0 12
-(`7_VgXprogY7/o(]XO9
-BDFChar: 5 37 9 0 6 0 12
-k,.JR(`4q\?sq:&c2[hE
+(`7_^o6<A=cc:JO(]XO9
+BDFChar: 5 37 9 0 6 -1 12
+#3MfL$lBg80OSe@cG0D[
 BDFChar: 6 38 9 0 7 0 12
-4D&2;4?.T\c-F>LHN4$G
+4D&2;4?.T]cd'PNHN4$G
 BDFChar: 7 39 9 2 4 8 12
 i8EO$^]4?7
 BDFChar: 8 40 9 1 5 -1 12
@@ -8509,16 +8533,16 @@ BDFChar: 26 58 9 3 5 0 9
 i8EMn!!!#Wi8=S8
 BDFChar: 27 59 9 2 4 -2 9
 i8EMn!!!#Wi8A"Y
-BDFChar: 28 60 9 0 5 0 8
-$lC[+^gJi5$ig8-
+BDFChar: 28 60 9 0 6 0 10
+"q2>&@)-/((^pTK
 BDFChar: 29 61 9 0 7 3 6
 rr<'!
-BDFChar: 30 62 9 0 5 0 8
-^gJi5$lC[+^]4?7
+BDFChar: 30 62 9 0 6 0 10
+^gJi5$jI+W0OVZr
 BDFChar: 31 63 9 0 7 0 12
 I`'(@!sT/N(`35i(]XO9
-BDFChar: 32 64 9 0 6 0 12
-I)aI_f%/F'f%/WlHiO-H
+BDFChar: 32 64 9 0 7 0 12
+5%DpngY:K;gY:"]4obQ_
 BDFChar: 33 65 9 0 6 0 12
 I)a1G`lA"t`l?$<`W,u=
 BDFChar: 34 66 9 0 6 0 12
@@ -8592,7 +8616,7 @@ I)a1A^qdb*`d@ad
 BDFChar: 68 100 9 0 6 0 12
 "pP9\`l?$<`l?$<IK0?J
 BDFChar: 69 101 9 0 6 0 9
-I)a1G`l?$t^jH+^
+I)a1G`r<ch^jH+^
 BDFChar: 70 102 9 0 6 0 12
 *\];G0JG170JG170E;(Q
 BDFChar: 71 103 9 0 6 -2 9
@@ -8620,7 +8644,7 @@ I`BCI`l?$<`dS*r
 BDFChar: 82 114 9 0 6 0 9
 rl2ah^qdb$^q]pM
 BDFChar: 83 115 9 0 6 0 9
-I)a1AHj0ep`d@ad
+I)a060Gk5<`d@ad
 BDFChar: 84 116 9 0 6 0 12
 0JG3[0JG170JG17*WQ0?
 BDFChar: 85 117 9 0 6 0 9
@@ -8673,8 +8697,8 @@ BDFChar: 108 174 9 0 6 0 9
 I"JZ(Wj8Y)Jp[Ou
 BDFChar: 109 175 9 1 6 12 12
 qu?]s
-BDFChar: 110 176 9 1 4 10 12
-@*i9]
+BDFChar: 110 176 9 1 5 10 12
+E7f+0
 BDFChar: 111 177 9 0 7 0 8
 (`4+i(`4(irr<$!
 BDFChar: 112 178 9 1 4 8 12
@@ -8785,14 +8809,14 @@ BDFChar: 164 230 9 0 5 0 9
 fJGF,['[KMYZLl*
 BDFChar: 165 231 9 0 6 -2 9
 I)a1A^qdb*`dA=?
-BDFChar: 166 232 9 0 6 0 12
-+:nO#`l?$<`lA"nHiO-H
-BDFChar: 167 233 9 0 6 0 12
-&0Lt#`l?$<`lA"nHiO-H
-BDFChar: 168 234 9 0 6 0 12
-&1@O+`l?$<`lA"nHiO-H
-BDFChar: 169 235 9 0 6 0 12
-Chs*!`l?$<`lA"nHiO-H
+BDFChar: 166 232 9 0 0 0 0
+z
+BDFChar: 167 233 9 0 0 0 0
+z
+BDFChar: 168 234 9 0 0 0 0
+z
+BDFChar: 169 235 9 0 0 0 0
+z
 BDFChar: 170 236 9 1 6 0 11
 5ToPM0JG170JG3Y
 BDFChar: 171 237 9 1 6 0 11
@@ -8847,20 +8871,20 @@ BDFChar: 195 271 9 0 10 0 13
 "s=*m#!`@mIK7@f`W4!Y`W4!Y`W4!Y`W1Gf
 BDFChar: 196 274 9 0 0 0 0
 z
-BDFChar: 197 275 9 0 6 0 11
-GQ<-2`l?$<`r<c$
+BDFChar: 197 275 9 0 0 0 0
+z
 BDFChar: 198 276 9 0 0 0 0
 z
-BDFChar: 199 277 9 0 6 0 12
-82($k`l?$<`lA"nHiO-H
+BDFChar: 199 277 9 0 0 0 0
+z
 BDFChar: 200 278 9 0 0 0 0
 z
-BDFChar: 201 279 9 0 6 0 12
-0JEKS`l?$<`lA"nHiO-H
+BDFChar: 201 279 9 0 0 0 0
+z
 BDFChar: 202 282 9 0 0 0 0
 z
-BDFChar: 203 283 9 0 6 0 12
--kHB+`l?$<`lA"nHiO-H
+BDFChar: 203 283 9 0 0 0 0
+z
 BDFChar: 204 284 9 0 0 0 0
 z
 BDFChar: 205 285 9 0 6 -2 12
@@ -10501,6 +10525,14 @@ BDFRefChar: 162 102 1 1 N
 BDFRefChar: 162 65 0 0 N
 BDFRefChar: 163 110 0 1 N
 BDFRefChar: 163 65 0 0 N
+BDFRefChar: 166 235 -1 3 N
+BDFRefChar: 166 69 0 0 N
+BDFRefChar: 167 236 -1 3 N
+BDFRefChar: 167 69 0 0 N
+BDFRefChar: 168 228 0 3 N
+BDFRefChar: 168 69 0 0 N
+BDFRefChar: 169 102 1 1 N
+BDFRefChar: 169 69 0 0 N
 BDFRefChar: 190 231 0 6 N
 BDFRefChar: 190 35 0 0 N
 BDFRefChar: 192 229 0 6 N
@@ -10509,12 +10541,20 @@ BDFRefChar: 194 229 0 6 N
 BDFRefChar: 194 36 0 0 N
 BDFRefChar: 196 109 -1 2 N
 BDFRefChar: 196 37 0 0 N
+BDFRefChar: 197 109 -1 -1 N
+BDFRefChar: 197 69 0 0 N
 BDFRefChar: 198 230 0 6 N
 BDFRefChar: 198 37 0 0 N
+BDFRefChar: 199 230 0 3 N
+BDFRefChar: 199 69 0 0 N
 BDFRefChar: 200 231 0 6 N
 BDFRefChar: 200 37 0 0 N
+BDFRefChar: 201 231 0 3 N
+BDFRefChar: 201 69 0 0 N
 BDFRefChar: 202 229 0 6 N
 BDFRefChar: 202 37 0 0 N
+BDFRefChar: 203 229 0 3 N
+BDFRefChar: 203 69 0 0 N
 BDFRefChar: 204 228 0 6 N
 BDFRefChar: 204 39 0 0 N
 BDFRefChar: 206 230 0 6 N
