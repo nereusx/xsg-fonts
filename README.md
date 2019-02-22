@@ -7,9 +7,8 @@ https://scripts.sil.org/OFL
 
 * xsg-fixed names:
 
-	xsg-fixedYYX
-	YY = height in pixels
-	X  = width in pixels
+	xsg-fixedYYX:
+	YY = height in pixels, X  = width in pixels
 
 	Standard VGA Fonts = 9x16
 
