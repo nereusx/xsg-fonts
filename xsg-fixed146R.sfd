@@ -6436,7 +6436,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 14 798 12 2 1 xsg
+BitmapFont: 14 799 12 2 1 xsg
 BDFStartProperties: 26
 FONT 1 "-xsg-XSG Fixed 146-Medium-R-Normal--12-90-100-100-C-49-ISO10646-1"
 SIZE 1 "9 100 100"
