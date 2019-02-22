@@ -1,16 +1,17 @@
 # xsg-fonts
 
-## LICENSE
+## SIL Open Font License (OFL)
 https://scripts.sil.org/OFL
 
-## Names:
+## Notes:
 
-xsg-fixedYYX
+* xsg-fixed names:
 
-YY = height in pixels
-X  = width in pixels
+	xsg-fixedYYX
+	YY = height in pixels
+	X  = width in pixels
 
-Standard VGA Fonts = 9x16
+	Standard VGA Fonts = 9x16
 
 ## Links
 * [Unicode VGA font](http://www.inp.nsk.su/~bolkhov/files/fonts/univga/)
