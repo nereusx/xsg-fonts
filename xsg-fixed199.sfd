@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550735229
-ModificationTime: 1550735285
+ModificationTime: 1550880208
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -39,13 +39,15 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2019, Nicholas Christopoulos (nereus@freemail.gr),+AAoA-with Reserved Font Name XSG Fixed 199.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: 19
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 34 34 11
+WinInfo: 646 34 11
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -7987,7 +7989,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 19 992 17 2 1 xsg
+BitmapFont: 19 993 17 2 1 xsg
 BDFStartProperties: 27
 FONT 1 "-xsg-XSG Fixed 199-Bold-B-Normal--14-140-72-72-C-80-ISO10646-1"
 SIZE 1 "14 72 72"
@@ -8023,17 +8025,17 @@ z
 BDFChar: 1 33 9 3 4 0 13
 ^qdb$^qdb$^qd_c^q]pM
 BDFChar: 2 34 9 1 5 9 13
-f\"j/:]LIq
-BDFChar: 3 35 9 0 6 0 13
-Ci!qeCi!p(Ci')eChs(O
+f\"j/fDkmO
+BDFChar: 3 35 9 0 6 0 10
+Ci!qeCi!qeCi!nf
 BDFChar: 4 36 9 0 7 0 13
 (`7_Vg=UWk)dD'G(`35Q
 BDFChar: 5 37 9 0 6 0 13
 k,,$B$lBg80OSe@b0Bte
 BDFChar: 6 38 9 0 7 0 13
-4D&2;Air%tps%+(a*Rdd
-BDFChar: 7 39 9 2 4 9 13
-i8EO$^]4?7
+4D&2;Air%tq9R@+a*Rdd
+BDFChar: 7 39 9 1 4 9 13
+E,]dS^]4?7
 BDFChar: 8 40 9 1 5 -1 13
 (bf?*^qdb$^qd`n?n`Dt
 BDFChar: 9 41 9 2 6 -1 13
@@ -8042,8 +8044,8 @@ BDFChar: 10 42 9 0 7 3 7
 Aj$)UAcMf2
 BDFChar: 11 43 9 0 7 2 8
 (`4+i(`4(i
-BDFChar: 12 44 9 2 4 -2 2
-i8EO$^]4?7
+BDFChar: 12 44 9 1 4 -2 2
+E,]dS^]4?7
 BDFChar: 13 45 9 0 7 5 5
 rr<$!
 BDFChar: 14 46 9 2 4 0 2
@@ -8072,8 +8074,8 @@ BDFChar: 25 57 9 0 6 0 13
 I)a1G`l?#I"pP:O`d@ad
 BDFChar: 26 58 9 3 5 0 9
 i8EMn!!!#Wi8=S8
-BDFChar: 27 59 9 2 4 -2 9
-i8EMn!!!#Wi8A"Y
+BDFChar: 27 59 9 1 4 -2 9
+E,]ar!!!"<E,aaN
 BDFChar: 28 60 9 0 5 0 8
 $lC[+^gJi5$ig8-
 BDFChar: 29 61 9 0 7 3 6
@@ -8142,12 +8144,12 @@ BDFChar: 60 92 9 0 6 0 13
 ^qd`n?na8O(^pfW"pP&-
 BDFChar: 61 93 9 2 5 0 13
 n1ZOM0JG170JG170^o&B
-BDFChar: 62 94 9 0 6 6 13
-&3,'g&.fBa
+BDFChar: 62 94 9 1 6 7 13
+0R3LL0JG0\
 BDFChar: 63 95 9 0 8 -1 -1
 s*t(L
-BDFChar: 64 96 9 1 3 9 13
-@)1^YhuE`W
+BDFChar: 64 96 9 1 4 9 13
+0Q>t.huE`W
 BDFChar: 65 97 9 0 6 0 9
 Hj5&>`l?$<`dRmf
 BDFChar: 66 98 9 0 6 0 13
@@ -8206,7 +8208,7 @@ BDFChar: 92 124 9 3 4 0 13
 ^qdb$^qdb$^qdb$^q]pM
 BDFChar: 93 125 9 1 5 -1 13
 i%Qi=0JG0t0JG170JMDb
-BDFChar: 94 126 9 0 6 8 9
+BDFChar: 94 126 9 0 6 10 11
 G2*&t
 BDFChar: 95 161 9 3 4 0 13
 ^q]rc^qdb$^qdb$^q]pM
@@ -8228,8 +8230,8 @@ BDFChar: 103 169 9 0 6 0 9
 3(/q0U8"ZN6oY/H
 BDFChar: 104 170 9 1 5 7 13
 E#<iPGQ@L=
-BDFChar: 105 171 9 0 7 2 6
-1M4jC1B7CT
+BDFChar: 105 171 9 0 6 2 6
+2Jh#^2?3^W
 BDFChar: 106 172 9 0 4 2 4
 p_XhJ
 BDFChar: 107 173 9 1 3 2 2
@@ -8238,8 +8240,8 @@ BDFChar: 108 174 9 0 6 0 9
 I"JZ(Wj8Y)Jp[Ou
 BDFChar: 109 175 9 1 6 13 13
 qu?]s
-BDFChar: 110 176 9 1 4 11 13
-@*i9]
+BDFChar: 110 176 9 1 5 11 13
+E7f+0
 BDFChar: 111 177 9 0 7 0 8
 (`4+i(`4(irr<$!
 BDFChar: 112 178 9 1 4 9 13
@@ -8252,22 +8254,22 @@ BDFChar: 115 181 9 0 6 -2 9
 `l?$<`l?$<`r<ch
 BDFChar: 116 182 9 0 4 0 9
 Gj+ATk\)@m-n#&q
-BDFChar: 117 183 9 3 4 6 7
-^q]pM
+BDFChar: 117 183 9 2 4 5 7
+i8EMn
 BDFChar: 118 184 9 2 3 -1 1
 5X9i"
 BDFChar: 119 185 9 1 4 9 13
 @,PF#n,NFg
 BDFChar: 120 186 9 1 5 8 13
 E7if^!;HNo
-BDFChar: 121 187 9 0 7 2 6
-b[rYCbQ%VC
-BDFChar: 122 188 9 0 4 1 8
-J;B:0:p>0U
-BDFChar: 123 189 9 0 4 1 8
-J;B:0:oFpb
-BDFChar: 124 190 9 0 4 1 9
-^`Z0%i)$Xs&-)\1
+BDFChar: 121 187 9 0 6 2 6
+fPEH^fDkmO
+BDFChar: 122 188 9 0 7 1 12
+@,PF)$lC[.$O[II
+BDFChar: 123 189 9 0 7 1 12
+@,PF)$lC[9!sT/E
+BDFChar: 124 190 9 1 7 1 13
+i%SOmlkhEa`YK=2"onW'
 BDFChar: 125 191 9 0 5 0 13
 0JEJ\0JG1g@)0S%b]j*f
 BDFChar: 126 192 9 0 6 0 16
@@ -8500,10 +8502,10 @@ BDFChar: 239 882 9 1 6 0 13
 r3Wi<['[3IZnO0f0JEJ,
 BDFChar: 240 883 9 1 6 -2 9
 r3Wi<['[3I0JG17
-BDFChar: 241 884 9 0 2 12 14
-?pK5B
-BDFChar: 242 885 9 2 4 -2 0
-+@*^B
+BDFChar: 241 884 9 0 4 11 14
+3&"aU
+BDFChar: 242 885 9 2 6 -2 1
+(bf@U
 BDFChar: 243 886 9 0 6 0 13
 `l?<LhVRu"k2s\'`l7uY
 BDFChar: 244 887 9 0 6 0 9
@@ -8516,8 +8518,8 @@ BDFChar: 247 892 9 0 6 0 9
 4CZ+Abfml<@QXVj
 BDFChar: 248 893 9 0 6 0 9
 G`2h2AnD5ON-G=&
-BDFChar: 249 894 9 2 4 -2 9
-i8EMn!!!#Wi8A"Y
+BDFChar: 249 894 9 1 4 -2 9
+E,]ar!!!"<E,aaN
 BDFChar: 250 895 9 1 4 0 13
 0JG170JG170JG170]2p2
 BDFChar: 251 896 9 0 6 0 13
@@ -9706,8 +9708,8 @@ BDFChar: 842 8983 9 0 7 0 11
 6:+$=6:+"*s$B%=
 BDFChar: 843 8984 9 0 6 0 9
 7&m87-n'JCW^Hge
-BDFChar: 844 8986 9 0 6 0 11
-3.-m@P*5NjJs(L@
+BDFChar: 844 8986 9 0 8 0 11
+4oe.SLk(#+Lk(;3q1+!GJ:NH+8H:pS
 BDFChar: 845 8987 9 0 6 0 10
 r^9.B-kIdp<.+ZF
 BDFChar: 846 8988 9 2 5 10 14
@@ -9790,32 +9792,32 @@ BDFChar: 884 9472 9 0 8 3 3
 s*t(L
 BDFChar: 885 9473 9 0 8 3 3
 s*t(L
-BDFChar: 886 9474 9 2 2 -2 15
-J:N0#J:N0#J:N0#J:N0#J:IV"
-BDFChar: 887 9475 9 2 2 -2 15
-J:N0#J:N0#J:N0#J:N0#J:IV"
+BDFChar: 886 9474 9 2 2 -2 16
+J:N0#J:N0#J:N0#J:N0#J:N.M
+BDFChar: 887 9475 9 2 2 -2 16
+J:N0#J:N0#J:N0#J:N0#J:N.M
 BDFChar: 888 9484 9 2 8 -2 3
 rd]NLJ:IV"
 BDFChar: 889 9488 9 0 2 -2 3
 i#j-b+<UXa
-BDFChar: 890 9492 9 2 8 3 15
-J:N0#J:N0#J:N0#rVuou
-BDFChar: 891 9496 9 0 2 3 15
-+<VdL+<VdL+<VdLhuE`W
-BDFChar: 892 9500 9 2 8 -2 15
-J:N0#J:N0#J:N0#rd]NLJ:IV"
-BDFChar: 893 9508 9 0 2 -2 15
-+<VdL+<VdL+<VdLi#j-b+<UXa
+BDFChar: 890 9492 9 2 8 3 16
+J:N0#J:N0#J:N0#JGoNK
+BDFChar: 891 9496 9 0 2 3 16
++<VdL+<VdL+<VdL+Q*5"
+BDFChar: 892 9500 9 2 8 -2 16
+J:N0#J:N0#J:N0#JGt(LJ:N.M
+BDFChar: 893 9508 9 0 2 -2 16
++<VdL+<VdL+<VdL+Q+@b+<Vd,
 BDFChar: 894 9516 9 0 8 -2 3
 s*u3l+93Ma+93Ma
-BDFChar: 895 9524 9 0 8 3 15
-+93Ma+93Ma+93Ma+93Ma+93Ma+93Mas*t(L
-BDFChar: 896 9532 9 0 8 -2 15
-+93Ma+93Ma+93Ma+93Ma+93Ma+93Mas*u3l+93Ma+93Ma
+BDFChar: 895 9524 9 0 8 3 16
++93Ma+93Ma+93Ma+93Ma+93Ma+93Ma+9;Fl
+BDFChar: 896 9532 9 0 8 -2 16
++93Ma+93Ma+93Ma+93Ma+93Ma+93Ma+9;Fl+93Ma+93Ma+92BA
 BDFChar: 897 9552 9 0 8 2 4
 s*t(Ls*t(L
-BDFChar: 898 9553 9 1 3 -2 15
-TV.sNTV.sNTV.sNTV.sNTV)8b
+BDFChar: 898 9553 9 1 3 -2 16
+TV.sNTV.sNTV.sNTV.sNTV.qX
 BDFChar: 899 9554 9 2 8 -2 4
 rdauuJ:N.M
 BDFChar: 900 9555 9 1 8 -2 3
@@ -9828,56 +9830,56 @@ BDFChar: 903 9558 9 0 3 -2 3
 n5)qX:f%,l
 BDFChar: 904 9559 9 0 3 -2 4
 n.<rC:f'sg
-BDFChar: 905 9560 9 2 8 2 15
-J:N0#J:N0#J:N1LJGoNK
-BDFChar: 906 9561 9 1 8 3 15
-TV.sNTV.sNTV.sNrr<$!
-BDFChar: 907 9562 9 1 8 2 15
-TV.sNTV.sNTV.smJH#TL
-BDFChar: 908 9563 9 0 2 2 15
-+<VdL+<VdL+<Vfb+Q*5"
-BDFChar: 909 9564 9 0 3 3 15
-:f'tb:f'tb:f'tbn,NFg
-BDFChar: 910 9565 9 0 3 2 15
-:f'tb:f'tb:f(!8&F]Z"
-BDFChar: 911 9566 9 2 8 -2 15
-J:N0#J:N0#J:N1LJGt(LJ:IV"
-BDFChar: 912 9567 9 1 8 -2 15
-TV.sNTV.sNTV.sN^S%6mTV)8b
-BDFChar: 913 9568 9 1 8 -2 15
-TV.sNTV.sNTV.smJA7bMTV)8b
-BDFChar: 914 9569 9 0 2 -2 15
-+<VdL+<VdL+<Vfb+Q+@b+<UXa
-BDFChar: 915 9570 9 0 3 -2 15
-:f'tb:f'tb:f'tbcqmP8:f%,l
-BDFChar: 916 9571 9 0 3 -2 15
-:f'tb:f'tb:f(!8&C=6M:f%,l
+BDFChar: 905 9560 9 2 8 2 16
+J:N0#J:N0#J:N0#rdatJ
+BDFChar: 906 9561 9 1 8 3 16
+TV.sNTV.sNTV.sNT`4ul
+BDFChar: 907 9562 9 1 8 2 16
+TV.sNTV.sNTV.sN^OZ=a
+BDFChar: 908 9563 9 0 2 2 16
++<VdL+<VdL+<VdLi#pqX
+BDFChar: 909 9564 9 0 3 3 16
+:f'tb:f'tb:f'tb;"+Gb
+BDFChar: 910 9565 9 0 3 2 16
+:f'tb:f'tb:f'tbck,[H
+BDFChar: 911 9566 9 2 8 -2 16
+J:N0#J:N0#J:N0#rdauuJ:N.M
+BDFChar: 912 9567 9 1 8 -2 16
+TV.sNTV.sNTV.sNTYI.mTV.qX
+BDFChar: 913 9568 9 1 8 -2 16
+TV.sNTV.sNTV.sN^OX(lTV.qX
+BDFChar: 914 9569 9 0 2 -2 16
++<VdL+<VdL+<VdLi#pr#+<Vd,
+BDFChar: 915 9570 9 0 3 -2 16
+:f'tb:f'tb:f'tb:s`$8:f'sg
+BDFChar: 916 9571 9 0 3 -2 16
+:f'tb:f'tb:f'tbck+Q#:f'sg
 BDFChar: 917 9572 9 0 8 -2 4
 s*t(Ls*u3l+93Ma+92BA
 BDFChar: 918 9573 9 0 8 -2 3
 s+!oG:]O;l:]O;l
 BDFChar: 919 9574 9 0 8 -2 4
 s*t(LhgeN':]O;l:]LIq
-BDFChar: 920 9575 9 0 8 2 15
-+93Ma+93Ma+93Ma+93Ma+93Ma+9;Fl!!*%L
-BDFChar: 921 9576 9 0 8 3 15
-:]O;l:]O;l:]O;l:]O;l:]O;l:]O;ls*t(L
-BDFChar: 922 9577 9 0 8 2 15
-:]O;l:]O;l:]O;l:]O;l:]O;l:]TC'!!*%L
-BDFChar: 923 9578 9 0 8 -2 15
-+93Ma+93Ma+93Ma+93Ma+93Ma+9;Fl+9;Fl+93Ma+93Ma
-BDFChar: 924 9579 9 0 8 -2 15
-:]O;l:]O;l:]O;l:]O;l:]O;l:]O;ls+!oG:]O;l:]O;l
-BDFChar: 925 9580 9 0 8 -2 15
-:]O;l:]O;l:]O;l:]O;l:]O;l:]TC'!!(o,:]O;l:]O;l
-BDFChar: 926 9608 9 0 8 -2 15
-s+(-"s+(-"s+(-"s+(-"s+(-"s+(-"s+(-"s+(-"s+(-"
-BDFChar: 927 9617 9 0 6 -2 15
-#_F0)Jfk>N+:*QA#_F0)Jfk$n
-BDFChar: 928 9618 9 0 7 -2 15
-<N9'!<N9'!<N9'!<N9'!<N6$!
-BDFChar: 929 9619 9 0 7 -2 15
-pOD#nJ)0jKh=lETpOD#nJ)())
+BDFChar: 920 9575 9 0 8 2 16
++93Ma+93Ma+93Ma+93Ma+93Ma+93Mas*t(Ls*t(L
+BDFChar: 921 9576 9 0 8 3 16
+:]O;l:]O;l:]O;l:]O;l:]O;l:]O;l:]UNG
+BDFChar: 922 9577 9 0 8 2 16
+:]O;l:]O;l:]O;l:]O;l:]O;l:]O;lhgb\,s*t(L
+BDFChar: 923 9578 9 0 8 -2 16
++93Ma+93Ma+93Ma+93Ma+93Ma+93Mas*u3ls*u3l+93Ma+92BA
+BDFChar: 924 9579 9 0 8 -2 16
+:]O;l:]O;l:]O;l:]O;l:]O;l:]O;l:]UNG:]O;l:]O;l:]LIq
+BDFChar: 925 9580 9 0 8 -2 16
+:]O;l:]O;l:]O;l:]O;l:]O;l:]O;lhgb\,hgeN':]O;l:]LIq
+BDFChar: 926 9608 9 0 8 -2 16
+s+(-"s+(-"s+(-"s+(-"s+(-"s+(-"s+(-"s+(-"s+(-"s*t(L
+BDFChar: 927 9617 9 0 6 -2 16
++:*QA#_F0)Jfk>N+:*QA#_F0!
+BDFChar: 928 9618 9 0 7 -2 16
+W`?'!W`?'!W`?'!W`?'!W`?&!
+BDFChar: 929 9619 9 0 7 -2 16
+h=lETpOD#nJ)0jKh=lETpOD!!
 BDFChar: 930 9632 9 0 6 2 8
 rr2orrr2ls
 BDFChar: 931 9633 9 0 6 2 8
@@ -9922,8 +9924,8 @@ BDFChar: 950 9768 9 0 7 0 11
 (d&WPrtlRi(`4),
 BDFChar: 951 9773 9 0 7 0 9
 3!:!D<Xqh"JUd_#
-BDFChar: 952 9774 9 0 6 1 8
-3)l'(]'_sG
+BDFChar: 952 9774 9 0 8 0 8
+4oe.SLk(;3S:IViaacq_4obQ_
 BDFChar: 953 10214 9 1 5 0 13
 pn4:QTV.sNTV.sNT_JKe
 BDFChar: 954 10215 9 1 5 0 13
