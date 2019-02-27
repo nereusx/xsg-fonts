@@ -1,7 +1,16 @@
 #!/bin/tcsh -f
 
-set dest=/usr/share/fonts/misc
-if ( -d /usr/share/fonts/X11/misc ) set dest=/usr/share/fonts/X11/misc/
+set list = ( /usr/share/fonts/misc /usr/share/fonts/X11/misc )
+foreach f ( $list )
+	if ( -d $f ) then
+		set dest = $f
+		break
+	endif
+end
 
-install -m 0644 -o root -g root *.pcf.gz $dest
-fc-cache -rsvf
+if ( $?dest ) then
+	install -m 0644 -o root -g root *.pcf.gz $dest
+	fc-cache -rsvf
+else
+	echo "font directory not found"
+endif
