@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550968045
-ModificationTime: 1551374856
+ModificationTime: 1551377954
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -51,10 +51,10 @@ NameList: AGL For New Fonts
 DisplaySize: 17
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 12
+WinInfo: 57342 38 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 1049
+BeginChars: 65536 1056
 
 StartChar: space
 Encoding: 32 32 0
@@ -8729,8 +8729,64 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uniE0A0
+Encoding: 57504 57504 1049
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0A1
+Encoding: 57505 57505 1050
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0A2
+Encoding: 57506 57506 1051
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0B0
+Encoding: 57520 57520 1052
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0B1
+Encoding: 57521 57521 1053
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0B2
+Encoding: 57522 57522 1054
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0B3
+Encoding: 57523 57523 1055
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 17 1049 15 2 1 xsg
+BitmapFont: 17 1056 15 2 1 xsg
 BDFStartProperties: 27
 FONT 1 "-xsg-XSG Fixed 178-Bold-R-Bold--17-120-100-100-C-60-ISO10646-1"
 SIZE 1 "14 72 72"
@@ -10859,6 +10915,20 @@ BDFChar: 1047 9654 8 0 7 -1 13
 JAC+4q#(-krquQ\i4sjC
 BDFChar: 1048 9664 8 0 7 -1 13
 !<WQ;+$Y8TIm5"c#6Ou,
+BDFChar: 1049 57504 8 0 7 -2 14
+^s([8bfn;Tb`!NdnDN6_huE`W
+BDFChar: 1050 57505 8 0 6 0 12
+^qdb$_"[mb3^,GW1&q:S
+BDFChar: 1051 57506 8 0 6 0 13
+3,EDICjc6]`pW9ord4\G
+BDFChar: 1052 57520 8 0 7 -1 13
+JAC+4q#(-krquQ\i4sjC
+BDFChar: 1053 57521 8 0 7 -1 13
+JA>PH(^pTN"q2>&@).9m
+BDFChar: 1054 57522 8 0 7 -1 13
+!<WQ;+$Y8TIm5"c#6Ou,
+BDFChar: 1055 57523 8 0 7 -1 13
+!<WN7(bf@5?n`E+"p4l+
 BDFRefChar: 291 253 1 3 N
 BDFRefChar: 291 296 0 0 N
 BDFRefChar: 325 253 2 3 N
