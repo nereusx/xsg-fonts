@@ -8786,7 +8786,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 17 1056 15 2 1 xsg
+BitmapFont: 17 1057 15 2 1 xsg
 BDFStartProperties: 27
 FONT 1 "-xsg-XSG Fixed 178-Bold-R-Bold--17-120-100-100-C-60-ISO10646-1"
 SIZE 1 "14 72 72"
@@ -10919,8 +10919,8 @@ BDFChar: 1049 57504 8 0 7 -2 14
 ^s([8bfn;Tb`!NdnDN6_huE`W
 BDFChar: 1050 57505 8 0 6 0 12
 ^qdb$_"[mb3^,GW1&q:S
-BDFChar: 1051 57506 8 0 6 0 13
-3,EDICjc6]`pW9ord4\G
+BDFChar: 1051 57506 8 0 6 0 12
+3(-/&7/m2*mdC)RHiO-H
 BDFChar: 1052 57520 8 0 7 -1 13
 JAC+4q#(-krquQ\i4sjC
 BDFChar: 1053 57521 8 0 7 -1 13
