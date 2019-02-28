@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431934799
-ModificationTime: 1551364640
+ModificationTime: 1551380077
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -52,11 +52,11 @@ NameList: AGL For New Fonts
 DisplaySize: 16
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 13 13 13
+WinInfo: 9040 40 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 436207 218103 145402 0 1048576 145402 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65544 1106
+BeginChars: 65544 1124
 
 StartChar: space
 Encoding: 32 32 0
@@ -9997,8 +9997,152 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uniE0A0
+Encoding: 57504 57504 1106
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0A1
+Encoding: 57505 57505 1107
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0A2
+Encoding: 57506 57506 1108
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0B0
+Encoding: 57520 57520 1109
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0B1
+Encoding: 57521 57521 1110
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0B2
+Encoding: 57522 57522 1111
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE0B3
+Encoding: 57523 57523 1112
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23F4
+Encoding: 9204 9204 1113
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23F5
+Encoding: 9205 9205 1114
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23F6
+Encoding: 9206 9206 1115
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23F7
+Encoding: 9207 9207 1116
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23F8
+Encoding: 9208 9208 1117
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23F9
+Encoding: 9209 9209 1118
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23FA
+Encoding: 9210 9210 1119
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23FB
+Encoding: 9211 9211 1120
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23FC
+Encoding: 9212 9212 1121
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23FD
+Encoding: 9213 9213 1122
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni23FE
+Encoding: 9214 9214 1123
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 16 1107 14 2 1 xsg
+BitmapFont: 16 1124 14 2 1 xsg
 BDFStartProperties: 27
 FONT 1 "-xsg-XSG Fixed 167-Bold-B-Normal--14-140-72-72-C-80-ISO10646-1"
 SIZE 1 "14 72 72"
@@ -12241,6 +12385,42 @@ BDFChar: 1104 9621 7 6 6 -2 13
 J:N0#J:N0#J:N0#J:N0#
 BDFChar: 1105 9620 7 0 6 12 13
 rr)lt
+BDFChar: 1106 57504 7 0 6 -2 13
+^rY=1aN2GY(i\EK^qdb$
+BDFChar: 1107 57505 7 0 5 0 12
+^qdb$_"[n?FF7n8A,lT0
+BDFChar: 1108 57506 7 0 5 0 11
+0M"`*8GrD0r;?J;
+BDFChar: 1109 57520 7 0 6 -1 12
+JAC+4q#(-jr:od>^jlCb
+BDFChar: 1110 57521 7 0 6 -1 12
+JA>PH(^pTQ$lC[+^jlCb
+BDFChar: 1111 57522 7 0 6 -1 12
+!X9,U5(<M1IQee_"p+c)
+BDFChar: 1112 57523 7 0 6 -1 12
+!X9&M0OV]3?n`E+"p+c)
+BDFChar: 1113 9204 7 1 4 2 7
+0Q?ONE%h7l
+BDFChar: 1114 9205 7 1 4 2 7
+^u4_Oi4o<m
+BDFChar: 1115 9206 7 0 5 3 6
+0R3Nn
+BDFChar: 1116 9207 7 0 5 3 6
+r;:dn
+BDFChar: 1117 9208 7 0 5 2 7
+bfn;Tbfg%e
+BDFChar: 1118 9209 7 0 5 2 7
+r;?Kjr;6Np
+BDFChar: 1119 9210 7 0 5 2 7
+Gl7L;r-/2A
+BDFChar: 1120 9211 7 0 6 2 10
+&.hg(P*1Db2uipY
+BDFChar: 1121 9212 7 0 6 2 9
+3(/pmP*/3m
+BDFChar: 1122 9213 7 2 4 2 9
+5iCSYi8ENY
+BDFChar: 1123 9214 7 0 4 2 7
+5eu=9E&[gt
 BDFRefChar: 126 201 -1 5 N
 BDFRefChar: 126 33 0 0 N
 BDFRefChar: 127 202 -1 5 N
