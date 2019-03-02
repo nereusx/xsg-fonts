@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1551511214
-ModificationTime: 1551515278
+ModificationTime: 1551516110
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: 16
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 57 57 21
+WinInfo: 0 57 21
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 1131
@@ -414,7 +414,7 @@ StartChar: M
 Encoding: 77 77 45
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -1038,7 +1038,7 @@ StartChar: onehalf
 Encoding: 189 189 123
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -1046,7 +1046,7 @@ StartChar: threequarters
 Encoding: 190 190 124
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -9832,7 +9832,7 @@ Gg+CUgt_8_bfn:U
 BDFChar: 17 49 8 1 4 0 11
 ?sqpN?smAM?smC3
 BDFChar: 18 50 8 0 5 0 11
-p^@Q>(bf@5^qdb`
+p^@Q>$lC[+^qdb`
 BDFChar: 19 51 8 0 5 0 11
 p^@Q>$oeY($k*R>
 BDFChar: 20 52 8 0 5 0 11
@@ -9885,10 +9885,10 @@ BDFChar: 43 75 8 0 5 0 11
 bfn;`f^SC_fZ_R`
 BDFChar: 44 76 8 0 5 0 11
 ^qdb$^qdb$^qdb`
-BDFChar: 45 77 8 0 6 0 11
-K#[6Xf#G_L`l?$<
-BDFChar: 46 78 8 0 6 0 11
-L;rBLhTj-\`l?$<
+BDFChar: 45 77 8 0 5 0 11
+KZsAleAT;D`5KU4
+BDFChar: 46 78 8 0 5 0 11
+KZ)sDgs!^T`5KU4
 BDFChar: 47 79 8 0 5 0 11
 Gg+CUbfn;Tbfn:U
 BDFChar: 48 80 8 0 5 0 11
@@ -9898,7 +9898,7 @@ Gg+CUbfn;Tbfn:U0JEJ,
 BDFChar: 50 82 8 0 5 0 11
 prpt+bfok+bfn;T
 BDFChar: 51 83 8 0 5 0 11
-Gg+CI^j$7r%*Zq?
+Gg+CI?n`E+%*Zq?
 BDFChar: 52 84 8 0 5 0 11
 r%KfY0JG170JG17
 BDFChar: 53 85 8 0 5 0 11
@@ -9936,7 +9936,7 @@ $k*Plbfn;Tbfn:Y
 BDFChar: 69 101 8 0 5 0 8
 Gg+CUr4p+`GQ7^D
 BDFChar: 70 102 8 0 5 0 11
-4CDQ)?srb;?smAM
+4CDQ)?smC;?smAM
 BDFChar: 71 103 8 0 5 -2 8
 I*BgYbfn;THjk6"
 BDFChar: 72 104 8 0 5 0 11
@@ -10005,8 +10005,8 @@ BDFChar: 103 169 8 0 5 0 9
 G_EH"UnjfnKQmIs
 BDFChar: 104 170 8 0 4 5 11
 E#<iPGQ@L=
-BDFChar: 105 171 8 0 4 2 6
--r?R5-ia5I
+BDFChar: 105 171 8 0 6 2 6
+2Jh#^2?3^W
 BDFChar: 106 172 8 0 4 2 4
 p_XhJ
 BDFChar: 107 173 8 1 3 2 2
@@ -10037,14 +10037,14 @@ BDFChar: 119 185 8 1 4 7 11
 @,PF#n,NFg
 BDFChar: 120 186 8 0 4 6 11
 E7if^!;HNo
-BDFChar: 121 187 8 0 4 2 6
-TMR%5TE"rl
-BDFChar: 122 188 8 0 4 1 8
-J;B:0:p>0U
-BDFChar: 123 189 8 0 4 1 8
-J;B:0:oFpb
-BDFChar: 124 190 8 0 4 1 9
-^`Z0%i)$Xs&-)\1
+BDFChar: 121 187 8 0 6 2 6
+fPEH^fDkmO
+BDFChar: 122 188 8 0 6 0 11
+@,PL+C`"j<es7?]
+BDFChar: 123 189 8 0 6 0 11
+@,PL+C`"jR`f(`U
+BDFChar: 124 190 8 0 6 0 11
+i%SUulkhEges7?]
 BDFChar: 125 191 8 0 5 0 11
 0JEJ\0JHnM^s(#I
 BDFChar: 126 192 8 0 5 0 14
