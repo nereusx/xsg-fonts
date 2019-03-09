@@ -1,5 +1,13 @@
 # xsg-fonts
 
+## Charsets:
+
+* Latin1
+* Latin2
+* Greek
+* Cyrilic
+* Drawing box
+
 ## SIL Open Font License (OFL)
 https://scripts.sil.org/OFL
 
