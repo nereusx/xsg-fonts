@@ -5,7 +5,7 @@ FamilyName: XSG Fixed 199
 Weight: Bold
 Copyright: Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)
 UComments: "2019-2-21: Created with FontForge (http://fontforge.org)"
-Version: 1.4
+Version: 1.5
 DefaultBaseFilename: xsg-fixed199
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550735229
-ModificationTime: 1552109557
+ModificationTime: 1552110340
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -9184,8 +9184,8 @@ BDFChar: 27 59 9 1 4 -2 9
 E,]ar!!!"<E,aaN
 BDFChar: 28 60 9 0 5 1 9
 $lC[+^gJi5$ig8-
-BDFChar: 29 61 9 0 7 3 7
-rr<$!rr<$!
+BDFChar: 29 61 9 0 6 3 7
+rVuourVuou
 BDFChar: 30 62 9 0 5 1 9
 ^gJi5$lC[+^]4?7
 BDFChar: 31 63 9 0 7 0 13
@@ -9248,7 +9248,7 @@ BDFChar: 59 91 9 2 5 -1 14
 nA)iT^qdb$^qdb$^qdbT
 BDFChar: 60 92 9 0 6 -1 14
 ^qdb$?skZB(`3Yi"pP89
-BDFChar: 61 93 9 2 5 -1 14
+BDFChar: 61 93 9 1 4 -1 14
 n1ZOM0JG170JG170JG3M
 BDFChar: 62 94 9 1 6 7 13
 0R3LL0JG0\
@@ -9267,7 +9267,7 @@ BDFChar: 68 100 9 0 6 0 13
 BDFChar: 69 101 9 0 6 0 9
 I)a1G`r<ch^jH+^
 BDFChar: 70 102 9 0 6 0 13
-*\]9%r\-#[0JG170JEJ,
+*\]9%0JG17r\-#[0JEJ,
 BDFChar: 71 103 9 0 6 -2 9
 I`BCI`l?$<`dS,>
 BDFChar: 72 104 9 0 6 0 13
@@ -10127,7 +10127,7 @@ z
 BDFChar: 499 1236 9 0 6 0 13
 5$6Iif\$2Uf\"j/f\QT.
 BDFChar: 500 1237 9 0 7 0 9
-DB!rWgY^Z9fPUZh
+mQ5dMgY^Z9fPUZh
 BDFChar: 501 1238 9 0 0 0 0
 z
 BDFChar: 502 1239 9 0 0 0 0

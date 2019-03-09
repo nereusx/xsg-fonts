@@ -13,6 +13,7 @@ UnderlineWidth: 50
 Ascent: 882
 Descent: 118
 InvalidEm: 0
+sfntRevision: 0x00020000
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
@@ -22,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550968045
-ModificationTime: 1551377954
+ModificationTime: 1552159152
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -51,10 +52,10 @@ NameList: AGL For New Fonts
 DisplaySize: 17
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 57342 38 12
+WinInfo: 7486 38 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 1056
+BeginChars: 65536 1138
 
 StartChar: space
 Encoding: 32 32 0
@@ -8785,36 +8786,701 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni250D
+Encoding: 9485 9485 1056
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni254B
+Encoding: 9547 9547 1057
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni250E
+Encoding: 9486 9486 1058
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni250F
+Encoding: 9487 9487 1059
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2511
+Encoding: 9489 9489 1060
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2512
+Encoding: 9490 9490 1061
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2513
+Encoding: 9491 9491 1062
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2515
+Encoding: 9493 9493 1063
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2516
+Encoding: 9494 9494 1064
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2517
+Encoding: 9495 9495 1065
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2519
+Encoding: 9497 9497 1066
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni251A
+Encoding: 9498 9498 1067
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni251B
+Encoding: 9499 9499 1068
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni251D
+Encoding: 9501 9501 1069
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni251E
+Encoding: 9502 9502 1070
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni251F
+Encoding: 9503 9503 1071
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2520
+Encoding: 9504 9504 1072
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2521
+Encoding: 9505 9505 1073
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2523
+Encoding: 9507 9507 1074
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2522
+Encoding: 9506 9506 1075
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni252B
+Encoding: 9515 9515 1076
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2533
+Encoding: 9523 9523 1077
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni253B
+Encoding: 9531 9531 1078
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2506
+Encoding: 9478 9478 1079
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2507
+Encoding: 9479 9479 1080
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2504
+Encoding: 9476 9476 1081
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2505
+Encoding: 9477 9477 1082
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni254E
+Encoding: 9550 9550 1083
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni254F
+Encoding: 9551 9551 1084
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni254C
+Encoding: 9548 9548 1085
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni254D
+Encoding: 9549 9549 1086
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni254A
+Encoding: 9546 9546 1087
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2549
+Encoding: 9545 9545 1088
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2548
+Encoding: 9544 9544 1089
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2547
+Encoding: 9543 9543 1090
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2546
+Encoding: 9542 9542 1091
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2545
+Encoding: 9541 9541 1092
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2544
+Encoding: 9540 9540 1093
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2543
+Encoding: 9539 9539 1094
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2542
+Encoding: 9538 9538 1095
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2541
+Encoding: 9537 9537 1096
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2540
+Encoding: 9536 9536 1097
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni253F
+Encoding: 9535 9535 1098
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni253E
+Encoding: 9534 9534 1099
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni253D
+Encoding: 9533 9533 1100
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni253A
+Encoding: 9530 9530 1101
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2539
+Encoding: 9529 9529 1102
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2538
+Encoding: 9528 9528 1103
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2537
+Encoding: 9527 9527 1104
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2536
+Encoding: 9526 9526 1105
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2535
+Encoding: 9525 9525 1106
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2532
+Encoding: 9522 9522 1107
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2531
+Encoding: 9521 9521 1108
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2530
+Encoding: 9520 9520 1109
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni252F
+Encoding: 9519 9519 1110
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni252E
+Encoding: 9518 9518 1111
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni252D
+Encoding: 9517 9517 1112
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni252A
+Encoding: 9514 9514 1113
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2529
+Encoding: 9513 9513 1114
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2528
+Encoding: 9512 9512 1115
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2527
+Encoding: 9511 9511 1116
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2526
+Encoding: 9510 9510 1117
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2525
+Encoding: 9509 9509 1118
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2508
+Encoding: 9480 9480 1119
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2509
+Encoding: 9481 9481 1120
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni250A
+Encoding: 9482 9482 1121
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni250B
+Encoding: 9483 9483 1122
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2669
+Encoding: 9833 9833 1123
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: musicalnote
+Encoding: 9834 9834 1124
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: musicalnotedbl
+Encoding: 9835 9835 1125
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni266C
+Encoding: 9836 9836 1126
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2689
+Encoding: 9865 9865 1127
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2688
+Encoding: 9864 9864 1128
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2687
+Encoding: 9863 9863 1129
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2686
+Encoding: 9862 9862 1130
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2690
+Encoding: 9872 9872 1131
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2691
+Encoding: 9873 9873 1132
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni26D4
+Encoding: 9940 9940 1133
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni256E
+Encoding: 9582 9582 1134
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni256D
+Encoding: 9581 9581 1135
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2570
+Encoding: 9584 9584 1136
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni256F
+Encoding: 9583 9583 1137
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 17 1057 15 2 1 xsg
-BDFStartProperties: 27
-FONT 1 "-xsg-XSG Fixed 178-Bold-R-Bold--17-120-100-100-C-60-ISO10646-1"
-SIZE 1 "14 72 72"
-FONTBOUNDINGBOX 1 "17 22 -7 -5"
-COMMENT 0 "Generated by fontforge, http://fontforge.sourceforge.net"
+BitmapFont: 17 1138 15 2 1 xsg
+BDFStartProperties: 36
+FONT 1 "-xsg-XSG Fixed 178-Bold-R-Normal--17-120-100-100-P-70-ISO10646-1"
+COMMENT 0 "Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)"
 FOUNDRY 16 "xsg"
 FAMILY_NAME 16 "XSG Fixed 178"
 WEIGHT_NAME 16 "Bold"
 SLANT 16 "R"
-SETWIDTH_NAME 16 "Bold"
+SETWIDTH_NAME 16 "Normal"
 ADD_STYLE_NAME 16 ""
 PIXEL_SIZE 18 17
 POINT_SIZE 18 120
 RESOLUTION_X 19 100
 RESOLUTION_Y 19 100
-SPACING 16 "C"
-AVERAGE_WIDTH 18 80
+SPACING 16 "P"
+AVERAGE_WIDTH 18 70
 CHARSET_REGISTRY 16 "ISO10646"
 CHARSET_ENCODING 16 "1"
-MIN_SPACE 18 0
+FONTNAME_REGISTRY 16 ""
+CHARSET_COLLECTIONS 16 "ASCII ISOLatin1Encoding ISO8859-5 ISO8859-7 ISO10646-1"
+FONT_NAME 16 "XSGFixed178Bold"
+FACE_NAME 16 "XSG Fixed 178 Bold"
 COPYRIGHT 16 "Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)"
-WEIGHT 19 10
-RESOLUTION 19 99
-X_HEIGHT 18 17
-QUAD_WIDTH 18 5
-DEFAULT_CHAR 19 32
+FONT_VERSION 16 "001.000"
 FONT_ASCENT 18 15
 FONT_DESCENT 18 2
+UNDERLINE_POSITION 18 -2
+UNDERLINE_THICKNESS 18 1
+X_HEIGHT 18 9
+CAP_HEIGHT 18 12
+RAW_ASCENT 18 882
+RAW_DESCENT 18 118
+NORM_SPACE 18 8
+RELATIVE_WEIGHT 19 70
+RELATIVE_SETWIDTH 19 50
+FIGURE_WIDTH 18 8
+AVG_LOWERCASE_WIDTH 18 73
+AVG_UPPERCASE_WIDTH 18 61
 BDFEndProperties
 Resolution: 100
 BDFChar: 0 32 8 4 4 -2 -2
@@ -10585,90 +11251,90 @@ BDFChar: 882 9406 8 0 6 0 8
 I"JqmP*3D.HiO-H
 BDFChar: 883 9407 8 0 6 0 8
 I"JqmP*2PkHiO-H
-BDFChar: 884 9472 8 0 7 3 3
+BDFChar: 884 9472 8 0 7 5 5
 rr<$!
-BDFChar: 885 9473 8 0 7 3 3
-rr<$!
+BDFChar: 885 9473 8 0 7 5 6
+s8N'!
 BDFChar: 886 9474 8 3 3 -2 14
 J:N0#J:N0#J:N0#J:N0#J,fQL
-BDFChar: 887 9475 8 3 3 -2 14
-J:N0#J:N0#J:N0#J:N0#J,fQL
-BDFChar: 888 9484 8 3 7 -2 3
-pjdmFJ:IV"
-BDFChar: 889 9488 8 0 3 -2 3
-n.6-B&.egA
-BDFChar: 890 9492 8 3 7 3 14
-J:N0#J:N0#J:N1F
-BDFChar: 891 9496 8 0 3 3 14
-&.fBa&.fBa&.fEB
+BDFChar: 887 9475 8 3 4 -2 14
+^qdb$^qdb$^qdb$^qdb$^]4?7
+BDFChar: 888 9484 8 3 7 -2 5
+pjdmFJ:N0#
+BDFChar: 889 9488 8 0 3 -2 5
+n.6-B&.fBa
+BDFChar: 890 9492 8 3 7 5 14
+J:N0#J:N0#JG9*E
+BDFChar: 891 9496 8 0 3 5 14
+&.fBa&.fBa&F]Z"
 BDFChar: 892 9500 8 3 7 -2 14
-J:N0#J:N0#J:N1FJ:N0#J,fQL
+J:N0#J:N0#JG=YFJ:N0#J,fQL
 BDFChar: 893 9508 8 0 3 -2 14
-&.fBa&.fBa&.fEB&.fBa&-)\1
-BDFChar: 894 9516 8 0 7 -2 3
-rt#_Q&.egA
-BDFChar: 895 9524 8 0 7 3 14
-&.fBa&.fBa&.fEQ
+&.fBa&.fBa&F^5B&.fBa&-)\1
+BDFChar: 894 9516 8 0 7 -2 5
+rt#_Q&.fBa
+BDFChar: 895 9524 8 0 7 5 14
+&.fBa&.fBa&H;_1
 BDFChar: 896 9532 8 0 7 -2 14
-&.fBa&.fBa&.fEQ&.fBa&-)\1
-BDFChar: 897 9552 8 0 7 2 4
+&.fBa&.fBa&H<:Q&.fBa&-)\1
+BDFChar: 897 9552 8 0 7 4 6
 rrE'!
 BDFChar: 898 9553 8 2 4 -2 14
 TV.sNTV.sNTV.sNTV.sNTE"rl
-BDFChar: 899 9554 8 3 7 -2 4
-pji-iJ:N.M
-BDFChar: 900 9555 8 2 7 -2 3
-r1K^UTV)8b
-BDFChar: 901 9556 8 2 7 -2 4
-r.)GQTV.qX
-BDFChar: 902 9557 8 0 3 -2 4
-n.>(#&.fBQ
-BDFChar: 903 9558 8 0 4 -2 3
-pa@O=-n#&q
-BDFChar: 904 9559 8 0 4 -2 4
-p^$(3-n$JD
-BDFChar: 905 9560 8 3 7 2 14
-J:N0#J:N0#J:REFp](9o
-BDFChar: 906 9561 8 2 7 3 14
-TV.sNTV.sNTV.tU
-BDFChar: 907 9562 8 2 7 2 14
-TV.sNTV.sNTV/rJqu?]s
-BDFChar: 908 9563 8 0 3 2 14
-&.fBa&.fBa&.n=Bn,NFg
-BDFChar: 909 9564 8 0 4 3 14
--n$Jl-n$Jl-n$M=
-BDFChar: 910 9565 8 0 4 2 14
--n$Jl-n$Jl-n+9bp](9o
+BDFChar: 899 9554 8 3 7 -2 6
+pji-iJ:N0#J,fQL
+BDFChar: 900 9555 8 2 7 -2 5
+r1K^UTV.sN
+BDFChar: 901 9556 8 2 7 -2 6
+r.)GQTV.sNTE"rl
+BDFChar: 902 9557 8 0 3 -2 6
+n.>(#&.fBa&-)\1
+BDFChar: 903 9558 8 0 4 -2 5
+pa@O=-n$Jl
+BDFChar: 904 9559 8 0 4 -2 6
+p^$(3-n$Jl-ia5I
+BDFChar: 905 9560 8 3 7 4 14
+J:N0#J:N0#pji,>
+BDFChar: 906 9561 8 2 7 5 14
+TV.sNTV.sNT_nci
+BDFChar: 907 9562 8 2 7 4 14
+TV.sNTV.sN]R]n[
+BDFChar: 908 9563 8 0 3 4 14
+&.fBa&.fBan.>'h
+BDFChar: 909 9564 8 0 4 5 14
+-n$Jl-n$Jl./3cB
+BDFChar: 910 9565 8 0 4 4 14
+-n$Jl-n$JlkQpq`
 BDFChar: 911 9566 8 3 7 -2 14
-J:N0#J:N0#J:REFpjdmFJ,fQL
+J:N0#J:N0#pji-iJ:N0#J,fQL
 BDFChar: 912 9567 8 2 7 -2 14
-TV.sNTV.sNTV.sjTV.sNTE"rl
+TV.sNTV.sNTY-qjTV.sNTE"rl
 BDFChar: 913 9568 8 2 7 -2 14
-TV.sNTV.sNTV/rJ]V(pjTE"rl
+TV.sNTV.sN]R[YfTV.sNTE"rl
 BDFChar: 914 9569 8 0 3 -2 14
-&.fBa&.fBa&.n=Bn.6-B&-)\1
+&.fBa&.fBan.>(#&.fBa&-)\1
 BDFChar: 915 9570 8 0 4 -2 14
--n$Jl-n$Jl-n$M--n$Jl-ia5I
+-n$Jl-n$Jl.-N'--n$Jl-ia5I
 BDFChar: 916 9571 8 0 4 -2 14
--n$Jl-n$Jl-n+9bkU7i--ia5I
-BDFChar: 917 9572 8 0 7 -2 4
-rrE'1&.fBQ
-BDFChar: 918 9573 8 0 7 -2 3
-s!T9D-n#&q
-BDFChar: 919 9574 8 0 7 -2 4
-rrDL9-n$JD
-BDFChar: 920 9575 8 0 7 2 14
-&.fBa&.fBa&.njArr<$!
-BDFChar: 921 9576 8 0 7 3 14
--n$Jl-n$Jl-n$MD
-BDFChar: 922 9577 8 0 7 2 14
--n$Jl-n$Jl-n+Narr<$!
+-n$Jl-n$JlkQpB#-n$Jl-ia5I
+BDFChar: 917 9572 8 0 7 -2 6
+rrE'1&.fBa&-)\1
+BDFChar: 918 9573 8 0 7 -2 5
+s!T9D-n$Jl
+BDFChar: 919 9574 8 0 7 -2 6
+rrDL9-n$Jl-ia5I
+BDFChar: 920 9575 8 0 7 4 14
+&.fBa&.fBarrE'!
+BDFChar: 921 9576 8 0 7 5 14
+-n$Jl-n$Jl./s8I
+BDFChar: 922 9577 8 0 7 4 14
+-n$Jl-n$Jlmf<@f
 BDFChar: 923 9578 8 0 7 -2 14
-&.fBa&.fBa&.njQrt#_Q&-)\1
+&.fBa&.fBart,2A&.fBa&-)\1
 BDFChar: 924 9579 8 0 7 -2 14
--n$Jl-n$Jl-n$MD-n$Jl-ia5I
+-n$Jl-n$Jl./t\D-n$Jl-ia5I
 BDFChar: 925 9580 8 0 7 -2 14
--n$Jl-n$Jl-n+NamjKS4-ia5I
+-n$Jl-n$Jlmf;f)-n$Jl-ia5I
 BDFChar: 926 9608 8 0 7 -2 14
 s8W-!s8W-!s8W-!s8W-!rr<$!
 BDFChar: 927 9617 8 0 6 -2 14
@@ -10719,8 +11385,8 @@ BDFChar: 949 9767 8 0 5 0 11
 3$]ap,WHpFE$0+u
 BDFChar: 950 9768 8 0 6 0 11
 &3(44rX]VP&.fBa
-BDFChar: 951 9773 8 0 6 0 9
-3!:!D<Xqh"J:IV"
+BDFChar: 951 9773 8 0 7 -2 9
+49bmDA+SFc:A_lC
 BDFChar: 952 9774 8 0 6 1 8
 3)l'(]'_sG
 BDFChar: 953 10214 8 1 5 -1 13
@@ -10929,6 +11595,170 @@ BDFChar: 1054 57522 8 0 7 -1 13
 !<WQ;+$Y8TIm5"c#6Ou,
 BDFChar: 1055 57523 8 0 7 -1 13
 !<WN7(bf@5?n`E+"p4l+
+BDFChar: 1056 9485 8 3 7 -2 6
+q"TAiJ:N0#J,fQL
+BDFChar: 1057 9547 8 0 7 -2 14
+(`4),(`4),s8NoQ(`4),(]XO9
+BDFChar: 1058 9486 8 3 7 -2 5
+pqX\\^qdb$
+BDFChar: 1059 9487 8 3 7 -2 6
+q"VY?^qdb$^]4?7
+BDFChar: 1060 9489 8 0 3 -2 6
+nF-u#&.fBa&-)\1
+BDFChar: 1061 9490 8 0 4 -2 5
+p_Xhb(`4),
+BDFChar: 1062 9491 8 0 4 -2 6
+q"P[C(`4),(]XO9
+BDFChar: 1063 9493 8 3 7 5 14
+J:N0#J:N0#q"Ogh
+BDFChar: 1064 9494 8 3 7 5 14
+^qdb$^qdb$_"[m0
+BDFChar: 1065 9495 8 3 7 5 14
+^qdb$^qdb$q"Ogh
+BDFChar: 1066 9497 8 0 3 5 14
+&.fBa&.fBanF-DX
+BDFChar: 1067 9498 8 0 4 5 14
+(`4),(`4),)#+(2
+BDFChar: 1068 9499 8 0 4 5 14
+(`4),(`4),q"Ogh
+BDFChar: 1069 9501 8 3 7 -2 14
+J:N0#J:N0#q"TAiJ:N0#J,fQL
+BDFChar: 1070 9502 8 3 7 -2 14
+^qdb$^qdb$_"`G1J:N0#J,fQL
+BDFChar: 1071 9503 8 3 7 -2 14
+J:N0#J:N0#JG?pq^qdb$^]4?7
+BDFChar: 1072 9504 8 3 7 -2 14
+^qdb$^qdb$_"b^\^qdb$^]4?7
+BDFChar: 1073 9505 8 3 7 -2 14
+^qdb$^qdb$q"TAiJ:N0#J,fQL
+BDFChar: 1074 9507 8 3 7 -2 14
+^qdb$^qdb$q"VY?^qdb$^]4?7
+BDFChar: 1075 9506 8 3 7 -2 14
+J:N0#J:N0#q"VY?^qdb$^]4?7
+BDFChar: 1076 9515 8 0 4 -2 14
+(`4),(`4),q"P[C(`4),(]XO9
+BDFChar: 1077 9523 8 0 7 -2 6
+s8NoQ(`4),(]XO9
+BDFChar: 1078 9531 8 0 7 5 14
+(`4),(`4),s8N'!
+BDFChar: 1079 9478 8 3 3 -2 14
+J:N0#!!%P"J:N.M!.]TMJ,fQL
+BDFChar: 1080 9479 8 3 4 -2 14
+^qdb$!!'gM^qd_c!5QCc^]4?7
+BDFChar: 1081 9476 8 0 7 5 5
+gAh3R
+BDFChar: 1082 9477 8 0 7 5 6
+gY2].
+BDFChar: 1083 9550 8 3 3 -2 14
+J:N0#J:N.M!!%P"J:N0#J,fQL
+BDFChar: 1084 9551 8 3 4 -2 14
+^qdb$^qd_c!!'gM^qdb$^]4?7
+BDFChar: 1085 9548 8 0 7 5 5
+k5YJ^
+BDFChar: 1086 9549 8 0 7 5 6
+kN;gF
+BDFChar: 1087 9546 8 0 7 -2 14
+(`4),(`4),+9*/p(`4),(]XO9
+BDFChar: 1088 9545 8 0 7 -2 14
+(`4),(`4),q#;0J(`4),(]XO9
+BDFChar: 1089 9544 8 0 7 -2 14
+&.fBa&.fBas8NoQ(`4),(]XO9
+BDFChar: 1090 9543 8 0 7 -2 14
+(`4),(`4),s8NWA&.fBa&-)\1
+BDFChar: 1091 9542 8 0 7 -2 14
+&.fBa&.fBa+9*/p(`4),(]XO9
+BDFChar: 1092 9541 8 0 7 -2 14
+&.fBa&.fBanGa=B(`4),(]XO9
+BDFChar: 1093 9540 8 0 7 -2 14
+(`4),(`4),+9)l`&.fBa&-)\1
+BDFChar: 1094 9539 8 0 7 -2 14
+(`4),(`4),q#:m:&.fBa&-)\1
+BDFChar: 1095 9538 8 0 7 -2 14
+(`4),(`4),)#kEi(`4),(]XO9
+BDFChar: 1096 9537 8 0 7 -2 14
+&.fBa&.fBa&H<Ra(`4),(]XO9
+BDFChar: 1097 9536 8 0 7 -2 14
+(`4),(`4),)#k-Y&.fBa&-)\1
+BDFChar: 1098 9535 8 0 7 -2 14
+&.fBa&.fBas8NWA&.fBa&-)\1
+BDFChar: 1099 9534 8 0 7 -2 14
+&.fBa&.fBa+9)l`&.fBa&-)\1
+BDFChar: 1100 9533 8 0 7 -2 14
+&.fBa&.fBanGa%2&.fBa&-)\1
+BDFChar: 1101 9530 8 0 7 5 14
+(`4),(`4),+9)<@
+BDFChar: 1102 9529 8 0 7 5 14
+(`4),(`4),q#:<o
+BDFChar: 1103 9528 8 0 7 5 14
+(`4),(`4),)#jR9
+BDFChar: 1104 9527 8 0 7 5 14
+&.fBa&.fBas8N'!
+BDFChar: 1105 9526 8 0 7 5 14
+&.fBa&.fBa+9)<@
+BDFChar: 1106 9525 8 0 7 5 14
+&.fBa&.fBanG`Ig
+BDFChar: 1107 9522 8 0 7 -2 6
++9*/p(`4),(]XO9
+BDFChar: 1108 9521 8 0 7 -2 6
+q#;0J(`4),(]XO9
+BDFChar: 1109 9520 8 0 7 -2 5
+rtlRi(`4),
+BDFChar: 1110 9519 8 0 7 -2 6
+s8NWA&.fBa&-)\1
+BDFChar: 1111 9518 8 0 7 -2 6
++9)l`&.fBa&-)\1
+BDFChar: 1112 9517 8 0 7 -2 6
+nGa%2&.fBa&-)\1
+BDFChar: 1113 9514 8 0 4 -2 14
+&.fBa&.fBaq"P[C(`4),(]XO9
+BDFChar: 1114 9513 8 0 4 -2 14
+(`4),(`4),q"PC3&.fBa&-)\1
+BDFChar: 1115 9512 8 0 4 -2 14
+(`4),(`4),)#+pb(`4),(]XO9
+BDFChar: 1116 9511 8 0 4 -2 14
+&.fBa&.fBa&GR(Z(`4),(]XO9
+BDFChar: 1117 9510 8 0 4 -2 14
+(`4),(`4),)#+XR&.fBa&-)\1
+BDFChar: 1118 9509 8 0 3 -2 14
+&.fBa&.fBanF-u#&.fBa&-)\1
+BDFChar: 1119 9480 8 0 6 5 5
+WW3#!
+BDFChar: 1120 9481 8 0 6 5 6
+Wi?%!
+BDFChar: 1121 9482 8 3 3 -2 14
+J:IWMJ:IWMJ:IWMJ:IWMJ,fQL
+BDFChar: 1122 9483 8 3 4 -2 14
+^q]rc^q]rc^q]rc^q]rc^]4?7
+BDFChar: 1123 9833 8 1 4 0 11
+&.fBa&.fBa&.n@#
+BDFChar: 1124 9834 8 0 6 0 11
+(`jG(&.fBa&.n@#
+BDFChar: 1125 9835 8 0 6 0 11
+0K^s3+sJ3Tio1FX
+BDFChar: 1126 9836 8 0 6 0 11
+4sE07+sJ3T+sQIC
+BDFChar: 1127 9865 8 0 7 0 12
+IfKHJs8SMes8W-!IK0?J
+BDFChar: 1128 9864 8 0 7 0 12
+IfKHJs8Vops8W-!IK0?J
+BDFChar: 1129 9863 8 0 7 0 12
+IY!'$JUsYoJUrB'IK0?J
+BDFChar: 1130 9862 8 0 7 0 12
+IY!'$JUrN/JUrB'IK0?J
+BDFChar: 1131 9872 8 1 6 0 11
+^p&cN`3bJRJ:N0#
+BDFChar: 1132 9873 8 1 6 0 11
+_!q:"r4Iu=J:N0#
+BDFChar: 1133 9940 8 0 7 0 11
+IfKHJs+,b$s8W+J
+BDFChar: 1134 9582 8 0 3 -2 5
+i"-G2&.fBa
+BDFChar: 1135 9581 8 3 7 -2 5
+G^t<pJ:N0#
+BDFChar: 1136 9584 8 3 7 5 14
+J:N0#J:N0#J9V%o
+BDFChar: 1137 9583 8 0 3 5 14
+&.fBa&.fBa&E!Ng
 BDFRefChar: 291 253 1 3 N
 BDFRefChar: 291 296 0 0 N
 BDFRefChar: 325 253 2 3 N
