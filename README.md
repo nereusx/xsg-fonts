@@ -1,13 +1,13 @@
 # xsg-fonts
 
-Target: Clear and easy to read fonts. No art, just clear as possible.
+Target: Clear and easy to read bitmap unicode fonts. No art, just clear as possible.
 
 ## Charsets:
 
 * Latin1
 * Latin2
 * Greek
-* Cyrilic (I hope)
+* Cyrilic (I hope, fix and send)
 * Drawing box
 * Several more characters mostly for icons and polybar
 
