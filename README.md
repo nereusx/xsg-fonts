@@ -1,6 +1,6 @@
 # xsg-fonts
 
-Target: Clear and easy to read bitmap unicode fonts. No art, just clear as possible.
+Target: Clear and easy to read bitmap unicode fonts. No art, just clear as possible and a bit condensed.
 
 ## Charsets:
 
