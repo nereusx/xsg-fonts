@@ -7,7 +7,7 @@ Target: Clear and easy to read fonts. No art, just clear as possible.
 * Latin1
 * Latin2
 * Greek
-* Cyrilic
+* Cyrilic (I hope)
 * Drawing box
 * Several more characters mostly for icons and polybar
 
