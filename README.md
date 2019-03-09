@@ -1,5 +1,7 @@
 # xsg-fonts
 
+Target: Clear and easy to read fonts. No art, just clear as possible.
+
 ## Charsets:
 
 * Latin1
@@ -7,6 +9,7 @@
 * Greek
 * Cyrilic
 * Drawing box
+* Several more characters mostly for icons and polybar
 
 ## SIL Open Font License (OFL)
 https://scripts.sil.org/OFL
