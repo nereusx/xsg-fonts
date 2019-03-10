@@ -21,7 +21,9 @@ https://scripts.sil.org/OFL
 	xsg-fixedYYX:
 	YY = height in pixels, X  = width in pixels
 
-	Standard VGA Fonts = 9x16
+	(Standard VGA Fonts = 9x16)
+	
+	The R in the end of the file means "Regular" (non-bold)
 
 ## Links
 * [Unicode VGA font](http://www.inp.nsk.su/~bolkhov/files/fonts/univga/)
