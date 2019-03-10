@@ -47,7 +47,6 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2019, Nicholas Christopoulos (nereus@freemail.gr),+AAoA-with Reserved Font Name XSG Fixed 199.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: 19
@@ -9109,7 +9108,7 @@ CHARSET_COLLECTIONS 16 "ASCII ISOLatin1Encoding ISO8859-5 ISO8859-7 ISO10646-1"
 FONT_NAME 16 "XSGFixed199Bold"
 FACE_NAME 16 "XSG Fixed 199 Bold"
 COPYRIGHT 16 "Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)"
-FONT_VERSION 16 "1.4"
+FONT_VERSION 16 "1.5"
 FONT_ASCENT 18 17
 FONT_DESCENT 18 2
 UNDERLINE_POSITION 18 -2
@@ -9208,10 +9207,10 @@ BDFChar: 39 71 9 0 6 0 13
 I)a1A^qegH`l?$<`dRmf
 BDFChar: 40 72 9 0 6 0 13
 `l?$<`lA"t`l?$<`l7uY
-BDFChar: 41 73 9 2 5 0 13
-n6fX3?smAM?smAM@.4-r
-BDFChar: 42 74 9 1 5 0 13
-GVCg*0JG170JG170]2p2
+BDFChar: 41 73 9 1 6 0 13
+r%KfY0JG170JG170`1nN
+BDFChar: 42 74 9 1 6 0 13
+r%KfY0JG170JG170]2p2
 BDFChar: 43 75 9 0 6 0 13
 `l?6Hf\#]_f\"El`l7uY
 BDFChar: 44 76 9 0 6 0 13
@@ -9272,14 +9271,14 @@ BDFChar: 71 103 9 0 6 -2 9
 I`BCI`l?$<`dS,>
 BDFChar: 72 104 9 0 6 0 13
 ^qdb$r5Qar`l?$<`l7uY
-BDFChar: 73 105 9 1 6 0 12
-0JELr0JG170JG17qu?]s
-BDFChar: 74 106 9 1 4 -2 12
-0JELr0JG170JG170JMDb
+BDFChar: 73 105 9 0 7 0 12
+(`38J(`4),(`4),rr<$!
+BDFChar: 74 106 9 1 5 -2 12
+(`38J(`4),(`4),(`;`B
 BDFChar: 75 107 9 0 6 0 13
 ^qdb$`l?6TnCYt)`l7uY
-BDFChar: 76 108 9 1 6 0 13
-n1ZOM0JG170JG170`1nN
+BDFChar: 76 108 9 0 7 0 13
+p_Xhb(`4),(`4),)#jR9
 BDFChar: 77 109 9 0 7 0 9
 rnH2^gY:K;gY2].
 BDFChar: 78 110 9 0 6 0 9

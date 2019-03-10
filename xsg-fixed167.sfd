@@ -10146,7 +10146,7 @@ StartChar: Amacron
 Encoding: 256 256 1124
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 109 175 N 1 0 0 1 0 60 2
@@ -10157,7 +10157,7 @@ StartChar: amacron
 Encoding: 257 257 1125
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 109 175 N 1 0 0 1 0 60 2
@@ -10168,7 +10168,7 @@ StartChar: Abreve
 Encoding: 258 258 1126
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 728 N 1 0 0 1 0 60 2
@@ -10179,7 +10179,7 @@ StartChar: abreve
 Encoding: 259 259 1127
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 728 N 1 0 0 1 0 60 2
@@ -10190,7 +10190,7 @@ StartChar: Cacute
 Encoding: 262 262 1128
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 769 N 1 0 0 1 0 60 2
@@ -10201,7 +10201,7 @@ StartChar: cacute
 Encoding: 263 263 1129
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 769 N 1 0 0 1 0 60 2
@@ -10212,7 +10212,7 @@ StartChar: Ccircumflex
 Encoding: 264 264 1130
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 194 710 N 1 0 0 1 0 60 2
@@ -10223,7 +10223,7 @@ StartChar: ccircumflex
 Encoding: 265 265 1131
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 194 710 N 1 0 0 1 0 60 2
@@ -10234,7 +10234,7 @@ StartChar: Aogonek
 Encoding: 260 260 1132
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 198 731 N 1 0 0 1 0 0 2
@@ -10245,7 +10245,7 @@ StartChar: aogonek
 Encoding: 261 261 1133
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 198 731 N 1 0 0 1 0 0 2
@@ -10256,7 +10256,7 @@ StartChar: Eogonek
 Encoding: 280 280 1134
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 198 731 N 1 0 0 1 0 0 2
@@ -10267,14 +10267,14 @@ StartChar: eogonek
 Encoding: 281 281 1135
 Width: 416
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 198 731 N 1 0 0 1 0 0 2
 Refer: 69 101 N 1 0 0 1 0 0 3
 EndChar
 EndChars
-BitmapFont: 16 1136 14 2 1 xsg
+BitmapFont: 16 1137 14 2 1 xsg
 BDFStartProperties: 36
 FONT 1 "-xsg-XSG Fixed 167-Bold-R-Normal--16-120-100-100-P-61-ISO10646-1"
 COMMENT 0 "Copyright (C) 2015 Nicholas Christopoulos (nereus@freemail.gr)"
@@ -10396,10 +10396,10 @@ BDFChar: 39 71 7 0 5 0 11
 Gg+CI^qeaLbfn:Y
 BDFChar: 40 72 7 0 5 0 11
 bfn;Tbl#]/bfn;T
-BDFChar: 41 73 7 1 4 0 11
-n6fX3?smAM?smC3
-BDFChar: 42 74 7 0 4 0 11
-GVCg*0JG170JG3=
+BDFChar: 41 73 7 0 5 0 11
+r%KfY0JG170JG3Y
+BDFChar: 42 74 7 0 5 0 11
+r%KfY0JG170JG3=
 BDFChar: 43 75 7 0 5 0 11
 bfn;`f^SC_fZ_R`
 BDFChar: 44 76 7 0 5 0 11
@@ -10423,7 +10423,7 @@ r%KfY0JG170JG17
 BDFChar: 53 85 7 0 5 0 11
 bfn;Tbfn;Tbfn:U
 BDFChar: 54 86 7 0 5 0 11
-bfn;Tbfn;TBP9(R
+`5KU4`5KU4BP9(R
 BDFChar: 55 87 7 0 5 0 11
 `5KU4`73;deC<"C
 BDFChar: 56 88 7 0 5 0 11
@@ -10487,7 +10487,7 @@ BDFChar: 84 116 7 0 5 0 11
 BDFChar: 85 117 7 0 5 0 8
 bfn;Tbfn;THiO-H
 BDFChar: 86 118 7 0 5 0 8
-bfn;Tb\1ZD0E;(Q
+`5KU4`+Wg<0E;(Q
 BDFChar: 87 119 7 0 5 0 8
 `5KUDeC<!tBE/#4
 BDFChar: 88 120 7 0 5 0 8
