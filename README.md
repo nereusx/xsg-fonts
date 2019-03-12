@@ -26,6 +26,7 @@ https://scripts.sil.org/OFL
 	The R in the end of the file means "Regular" (non-bold)
 
 ## Links
+* [Font Editor](http://fontforge.github.io/en-US/)
 * [Unicode VGA font](http://www.inp.nsk.su/~bolkhov/files/fonts/univga/)
 * [THE OLDSCHOOL PC FONTS](https://int10h.org/oldschool-pc-fonts/fontlist/)
 * Convert BDF to TTF, [Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas)
