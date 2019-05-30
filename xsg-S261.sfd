@@ -1,12 +1,12 @@
 SplineFontDB: 3.0
-FontName: XSGFixed261Bold
-FullName: XSG Fixed 261 Bold
-FamilyName: XSG Fixed 261
+FontName: XSGS261Bold
+FullName: XSG SerifMono 261 Bold
+FamilyName: XSG SerifMono 261
 Weight: Bold
 Copyright: Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)
 UComments: "2019-5-30: Created with FontForge (http://fontforge.org)"
 Version: 001.000
-DefaultBaseFilename: xsg-fixed261
+DefaultBaseFilename: xsg-S261
 ItalicAngle: 0
 UnderlinePosition: 2
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1559169592
-ModificationTime: 1559183649
+ModificationTime: 1559182730
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -429,7 +429,7 @@ StartChar: O
 Encoding: 79 79 47
 Width: 416
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar
 
@@ -661,7 +661,7 @@ StartChar: l
 Encoding: 108 108 76
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -9036,10 +9036,10 @@ EndChar
 EndChars
 BitmapFont: 26 1075 22 4 1 xsg
 BDFStartProperties: 34
-FONT 1 "-xsg-XSG Fixed 261-Bold-R-Normal--26-190-100-100-P-96-ISO10646-1"
+FONT 1 "-xsg-XSG SerifMono 261-Bold-R-Normal--26-190-100-100-P-96-ISO10646-1"
 COMMENT 0 "Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)"
 FOUNDRY 16 "xsg"
-FAMILY_NAME 16 "XSG Fixed 261"
+FAMILY_NAME 16 "XSG SerifMono 261"
 WEIGHT_NAME 16 "Bold"
 SLANT 16 "R"
 SETWIDTH_NAME 16 "Normal"
@@ -9054,8 +9054,8 @@ CHARSET_REGISTRY 16 "ISO10646"
 CHARSET_ENCODING 16 "1"
 FONTNAME_REGISTRY 16 ""
 CHARSET_COLLECTIONS 16 "ASCII ISOLatin1Encoding ISO8859-2 ISO8859-5 ISO8859-7 ISO8859-9 ISO10646-1"
-FONT_NAME 16 "XSGFixed261Bold"
-FACE_NAME 16 "XSG Fixed 261 Bold"
+FONT_NAME 16 "XSGS261Bold"
+FACE_NAME 16 "XSG SerifMono 261 Bold"
 COPYRIGHT 16 "Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)"
 FONT_VERSION 16 "001.000"
 FONT_ASCENT 18 22
@@ -9063,7 +9063,7 @@ FONT_DESCENT 18 4
 UNDERLINE_POSITION 18 0
 UNDERLINE_THICKNESS 18 2
 X_HEIGHT 18 10
-CAP_HEIGHT 18 15
+CAP_HEIGHT 18 16
 RAW_ASCENT 18 846
 RAW_DESCENT 18 154
 NORM_SPACE 18 11
@@ -9105,25 +9105,25 @@ i8EMn
 BDFChar: 15 47 11 0 8 0 17
 !It3$!It7P!rrN*"oo&3$ih+E(]Z5i0E>J\?i[tB^];.M
 BDFChar: 16 48 11 0 8 0 15
-IfR<8_19@P_19LT`IQ'\aahchd=B&`_19@P_17"8
+4of'm_19@P_19LT`IQ'\aahchd=B&`_19@P@fS[m
 BDFChar: 17 49 11 1 8 0 15
 (cZd8(`4),(`4),(`4+i
 BDFChar: 18 50 11 0 8 0 15
-IfR<8_12Q:!It7P"oo&3(]Z5i?i[tB^];3$_1;Q9
+4of'm_19@P_16"q"oo&3(]Z5i?i[tB^];3$_1;Q9
 BDFChar: 19 51 11 0 8 0 15
-IfR<8_12Q:!It3$!Iu6l!It3$!It3$!J&":_17"8
+It5E:"oo&3(]ZYu"on`*!It3$!It3$!J&":_Z5,c
 BDFChar: 20 52 11 0 8 0 15
-!It3$_19@P_19@P_19@P_19@Ps*t-#!It3$!It3$
+!rrE'_Z7RS_Z7RS_Z7RS_Z7RSs*t1O!rrE'!rrE'
 BDFChar: 21 53 11 0 8 0 15
-s+%lb^];.Mrr<(M!It3$!It3$!It3$!J&":_17"8
+s+%lb^];.MrW!$#!It3$!It3$!It3$!J&":_Z5,c
 BDFChar: 22 54 11 0 8 0 15
-4oesj^];.M^]=B7_19@P_19@P_19@P_19@P_17"8
+4oesj^];.M^]<3kirHoG_19@P_19@P_19@P@fS[m
 BDFChar: 23 55 11 0 8 0 15
-s+%q9_12Q:!rrE'"oni-$ig\9$ig\9$ig\9$ig\9
+It5@c!It3$!rrE'"oni-$iiKl$ig\9$ig\9$ig\9
 BDFChar: 24 56 11 0 8 0 15
-IfR<8_19@P_19@P_17"8_19@P_19@P_19@P_17"8
+4of'm_19@P_19@P@fS[m@fX>q_19@P_19@P@fS[m
 BDFChar: 25 57 11 0 8 0 15
-IfR<8_19@P_19@P_19@P_19@PIt.QM!It3$!rtLb
+4of'm_19@P_19@P_19@P_16$G4b*Q`!It3$!rtLb
 BDFChar: 26 58 11 4 6 0 11
 i8EMnz!8uen
 BDFChar: 27 59 11 2 5 -2 11
@@ -9137,13 +9137,13 @@ BDFChar: 30 62 11 1 6 1 9
 BDFChar: 31 63 11 1 8 0 15
 I`'&*!s8`9(`4),(]YBi
 BDFChar: 32 64 11 0 9 0 15
-It5>M^qe:3fYH.TfYH.TfYH.TfYH.TcbR<r^]8l"
+*rn$G@)0guc+quIfYH.TfYH.TfYGa^`rKKI0Yec\
 BDFChar: 33 65 11 0 8 0 16
-IfR<8_19@P_19@P_19@P_19@P_1;Q9_19@P_19@P_12Lc
+#QPhE)uqks2?74e@fX>q_19@P_1;Q9_19@P_19@P_12Lc
 BDFChar: 34 66 11 0 8 0 16
-rrBlc_19@P_19@PrrBlc_19@P_19@P_19@P_19@Prr<$!
+rW'h9_19@P_19E'rW'h9_19@P_19@P_19@P_19E'rVuou
 BDFChar: 35 67 11 0 8 0 16
-IfR<8_19<$^];.M^];.M^];.M^];.M^];.M_19@PIfKHK
+4of'm_19@P^];.M^];.M^];.M^];.M^];3$_16"q4obQ_
 BDFChar: 36 68 11 0 8 0 16
 rW'h9_19@P_19@P_19@P_19@P_19@P_19@P_19E'rVuou
 BDFChar: 37 69 11 0 8 0 16
@@ -9151,13 +9151,13 @@ s+%lb^];.M^];.MrW'_6^];.M^];.M^];.M^];.Ms*t(L
 BDFChar: 38 70 11 0 8 0 16
 s+%lb^];.M^];.MrW'_6^];.M^];.M^];.M^];.M^]4?7
 BDFChar: 39 71 11 0 8 0 16
-IfR<8_19<$^];.Mc[`i^_19@P_19@P_19@P_19@PIt.M!
+4of'm_19@P^];.Mc[`i^_19@P_19@P_19@P_16$G4b*M4
 BDFChar: 40 72 11 0 8 0 16
 _19@P_19@P_19@Ps+%q9_19@P_19@P_19@P_19@P_12Lc
 BDFChar: 41 73 11 2 7 0 16
 r%KfY0JG170JG170JG17qu?]s
 BDFChar: 42 74 11 0 7 0 16
-rsT;E$k*OQ$k*OQ$k*OQp](9o
+J'8<0$k*OQ$k*OQ$k*O]n,NFg
 BDFChar: 43 75 11 0 8 0 16
 _19@P_19E'`W43_fDtC@fDs+q`W3mV_19@P_19@P_12Lc
 BDFChar: 44 76 11 0 8 0 16
@@ -9167,19 +9167,19 @@ J:PIdj+-lSs+&pUaah3X_19@P_19@P_19@P_19@P_12Lc
 BDFChar: 46 78 11 0 8 0 16
 _19@PiIKm;nUU.[fmqb+c%+&ha+23\_goXT_19@P_12Lc
 BDFChar: 47 79 11 0 8 0 16
-IfR<8_19@P_19@P_19@P_19@P_19@P_19@P_19@PIfKHK
+4of'm_19@P_19@P_19@P_19@P_19@P_19@P_16"q4obQ_
 BDFChar: 48 80 11 0 8 0 16
-rrBlc_19@P_19@P_19@P_19@P_1;Oc^];.M^];.M^]4?7
+rW'h9_19@P_19@P_19@P_19@P_Z9Z9^];.M^];.M^]4?7
 BDFChar: 49 81 11 0 8 -2 16
-IfR<8_19@P_19@P_19@P_19@P_19@P_19@P_19@PIfKZQ!rr<$
+4of'm_19@P_19@P_19@P_19@P_19@P_19@P_16"q4obce!rr<$
 BDFChar: 50 82 11 0 8 0 16
-rrBlc_19@P_19@P_19@P_19@P_1;Oc_19@P_19@P_12Lc
+rW'h9_19@P_19@P_19@P_19@P_Z9Z9_Z7N'_19@P_12Lc
 BDFChar: 51 83 11 0 8 0 16
-IfR<8_19<$^]7aB0E;pi$igJ3!rr@P!It3$_19@PIfKHK
+4of'm_19@P_#RjC0E;pi$igJ3!rr@P6%He%_16"q4obQ_
 BDFChar: 52 84 11 0 9 0 16
 s1f$C$ig\9$ig\9$ig\9$ig\9$ig\9$ig\9$ig\9$ig8-
 BDFChar: 53 85 11 0 8 0 16
-_19@P_19@P_19@P_19@P_19@P_19@P_19@P_19@PIfKHK
+_19@P_19@P_19@P_19@P_19@P_19@P_19@P_16"q4obQ_
 BDFChar: 54 86 11 0 8 0 16
 _19@P_19@P_19@P_19@P_19@P@fU!=2?5W8)uprY#QOi)
 BDFChar: 55 87 11 0 8 0 16
@@ -9189,7 +9189,7 @@ _19@P_16"q@fSCe2?4]s)uqks2?74e@fX>q_19@P_12Lc
 BDFChar: 57 89 11 0 9 0 16
 ^qdb$^qaB/@=U-61B8Hr*WQTK$ig\9$ig\9$ig\9$ig8-
 BDFChar: 58 90 11 0 8 0 16
-s+%q9_Z0c="oni-$ig\9(]YBQ0E<d,?iXR7_19@Ps*t(L
+It5@c!rrE'"oni-$ig\9(]YBQ0E<d,?iXR7^];3$rr<$!
 BDFChar: 59 91 11 3 7 -1 17
 pqX\\^qdb$^qdb$^qdb$^qf^F
 BDFChar: 60 92 11 0 8 0 17
@@ -9202,48 +9202,48 @@ BDFChar: 63 95 11 0 10 -1 -1
 s53kW
 BDFChar: 64 96 11 2 4 12 16
 @)0S9huE`W
-BDFChar: 65 97 11 0 8 0 10
-IfKM"!J#ZM_19@P_19@P_19@PIt.M!
+BDFChar: 65 97 11 0 9 0 10
+5Cd6o_19@P_19@P_19@P_16$G4hq$t
 BDFChar: 66 98 11 0 8 0 16
-^];.M^];.M^];.MrrBlc_19@P_19@P_19@P_19@Prr<$!
+^];.M^];.M^];.MrW(sY_19@P_19@P_19@P_1:PGrVuou
 BDFChar: 67 99 11 0 8 0 10
-IfR<8_19<$^];.M^];.M_19@PIfKHK
+4of'm_19<$^];.M^];.M_16"q4obQ_
 BDFChar: 68 100 11 0 8 0 16
-!It3$!It3$!It3$It5@c_19@P_19@P_19@P_19@PIt.M!
+!It3$!It3$!It3$5Cd6o_19@P_19@P_19@P_16$G5C`_6
 BDFChar: 69 101 11 0 8 0 10
-IfR<8_19@P_19@Ps+%lb^];.MIfKHK
+4of'm_19@P_19@Ps+%lb^]7aB56(Z`
 BDFChar: 70 102 11 0 8 0 16
-++Q$F0E<d,0E<d,rW"VP0E<d,0E<d,0E<d,0E<d,0E;(Q
+%tGJs0E<d,0E<d,rW"VP0E<d,0E<d,0E<d,0E<d,0E;(Q
 BDFChar: 71 103 11 0 8 -3 10
-It5@c_19@P_19@P_19@P_19@PIt.QM!rsAB
+5Cd6o_19@P_19@P_19@P_16$G5C`cb!rsAB
 BDFChar: 72 104 11 0 8 0 16
-^];.M^];.M^];.MrrBlc_19@P_19@P_19@P_19@P_12Lc
+^];.M^];.M^];.MrW(sY_19@P_19@P_19@P_19@P_12Lc
 BDFChar: 73 105 11 1 8 0 13
 (`38J(`4),(`4),)#jR9
 BDFChar: 74 106 11 1 6 -3 13
-$k*,`$k*OQ$k*OQ$k*OQp](9o
+$k*,`$k*OQ$k*OQ$k*O]n,NFg
 BDFChar: 75 107 11 0 8 0 16
 ^];.M^];.M^];.M_19E'`W43_p]1'hbQ,W__Z7N'_12Lc
 BDFChar: 76 108 11 0 8 0 16
-n,O:*(]YBQ(]YBQ(]YBQ(]YBQ(]YBQ(]YBQ(]YBQ%tFW[
+n,O:*(]YBQ(]YBQ(]YBQ(]YBQ(]YBQ(]YBQ(]XsE#CldS
 BDFChar: 77 109 11 0 9 0 10
 s+&>/beVH<beVH<beVH<beVH<beO2Y
 BDFChar: 78 110 11 0 8 0 10
-rrBlc_19@P_19@P_19@P_19@P_12Lc
+rW(sY_19@P_19@P_19@P_19@P_12Lc
 BDFChar: 79 111 11 0 8 0 10
-IfR<8_19@P_19@P_19@P_19@PIfKHK
+4of'm_19@P_19@P_19@P_16"q4obQ_
 BDFChar: 80 112 11 0 8 -3 10
-rrBlc_19@P_19@P_19@P_19@PrrBh7^];.M
+rW(sY_19@P_19@P_19@P_1:PGrW'_6^];.M
 BDFChar: 81 113 11 0 8 -3 10
-It5@c_19@P_19@P_19@P_19@PIt.QM!It3$
+5Cd6o_19@P_19@P_19@P_16$G5C`cb!It3$
 BDFChar: 82 114 11 0 8 0 10
-s+%q9_19<$^];.M^];.M^];.M^]4?7
+rrD)0_19<$^];.M^];.M^];.M^]4?7
 BDFChar: 83 115 11 0 8 0 10
-IfR<8_19<$^]8ia!It3$_19@PIfKHK
+56,2D_19<$?iW@j!rr@P_1:PGIK0?J
 BDFChar: 84 116 11 0 8 0 16
-(]YBQ(]YBQ(]YBQs*tpd(]YBQ(]YBQ(]YBQ(]YBQ%tFW[
-BDFChar: 85 117 11 0 8 0 10
-_19@P_19@P_19@P_19@P_19@PIt.M!
+(]YBQ(]YBQ(]YBQs*tpd(]YBQ(]YBQ(]YBQ(]XsE#CldS
+BDFChar: 85 117 11 0 9 0 10
+_19@P_19@P_19@P_19@P_16$G4hq$t
 BDFChar: 86 118 11 0 8 0 10
 _19@P_19@P_16"q@fSCe2?4]s)uos=
 BDFChar: 87 119 11 0 8 0 10
@@ -9251,15 +9251,15 @@ _19@P_19@P_19XXaahK`h10\L+ohTC
 BDFChar: 88 120 11 0 8 0 10
 _19@P@fSCe)uprY)uqks@fX>q_12Lc
 BDFChar: 89 121 11 0 8 -3 10
-_19@P_19@P_19@P_19@P_19@PIt.QM!rsAB
+_19@P_19@P_19@P_19@P_16$G5C`cb!rsAB
 BDFChar: 90 122 11 0 8 0 10
 s*t-#!rrN*$ih+E0E>J\^];.Ms*t(L
 BDFChar: 91 123 11 2 7 -1 18
-*&''#0JG170]4W=0JG170JG1#
+*&(c.?sm@r0]4W=?smAM?skZ.
 BDFChar: 92 124 11 4 5 -1 18
 ^qdb$^qdb$^qdb$^qdb$^qdb$
 BDFChar: 93 125 11 1 6 -1 18
-i%Qi=0JG170H;c#0JG170JG3=
+i%Pub(`4)D0H;c#(`4),(`4sb
 BDFChar: 94 126 11 0 9 11 14
 3'_l,c[^cN
 BDFChar: 95 161 11 4 5 0 16
@@ -9649,9 +9649,9 @@ z
 BDFChar: 287 912 11 0 0 0 0
 z
 BDFChar: 288 913 11 0 8 0 16
-IfR<8_19@P_19@P_19@P_19@P_1;Q9_19@P_19@P_12Lc
+#QPhE)uqks2?74e@fX>q_19@P_1;Q9_19@P_19@P_12Lc
 BDFChar: 289 914 11 0 8 0 16
-rrBlc_19@P_19@PrrBlc_19@P_19@P_19@P_19@Prr<$!
+rW'h9_19@P_19E'rW'h9_19@P_19@P_19@P_19E'rVuou
 BDFChar: 290 915 11 0 8 0 16
 s+%lb^];.M^];.M^];.M^];.M^];.M^];.M^];.M^]4?7
 BDFChar: 291 916 11 0 8 0 16
@@ -9659,11 +9659,11 @@ BDFChar: 291 916 11 0 8 0 16
 BDFChar: 292 917 11 0 8 0 16
 s+%lb^];.M^];.MrW'_6^];.M^];.M^];.M^];.Ms*t(L
 BDFChar: 293 918 11 0 8 0 16
-s+%q9_Z0c="oni-$ig\9(]YBQ0E<d,?iXR7_19@Ps*t(L
+It5@c!rrE'"oni-$ig\9(]YBQ0E<d,?iXR7^];3$rr<$!
 BDFChar: 294 919 11 0 8 0 16
 _19@P_19@P_19@Ps+%q9_19@P_19@P_19@P_19@P_12Lc
 BDFChar: 295 920 11 0 8 0 16
-IfR<8_19@P_19@P_19@Ph13=l_19@P_19@P_19@PIfKHK
+4of'm_19@P_19@P_19@Ph13=l_19@P_19@P_16"q4obQ_
 BDFChar: 296 921 11 2 7 0 16
 r%KfY0JG170JG170JG17qu?]s
 BDFChar: 297 922 11 0 8 0 16
@@ -9675,13 +9675,13 @@ J:PIdj+-lSs+&pUaah3X_19@P_19@P_19@P_19@P_12Lc
 BDFChar: 300 925 11 0 8 0 16
 _19@PiIKm;nUU.[fmqb+c%+&ha+23\_goXT_19@P_12Lc
 BDFChar: 301 926 11 0 8 0 16
-s+(-"zzz4obQ_zz!!*%Ls*t(L
+s+(-"#QOi)#QOi)#QOi)4obQ_#QOi)#QOi)#QXmTs*t(L
 BDFChar: 302 927 11 0 8 0 16
-IfR<8_19@P_19@P_19@P_19@P_19@P_19@P_19@PIfKHK
+4of'm_19@P_19@P_19@P_19@P_19@P_19@P_16"q4obQ_
 BDFChar: 303 928 11 0 8 0 16
 s+%q9_19@P_19@P_19@P_19@P_19@P_19@P_19@P_12Lc
 BDFChar: 304 929 11 0 8 0 16
-rrBlc_19@P_19@P_19@P_19@P_1;Oc^];.M^];.M^]4?7
+rW'h9_19@P_19@P_19@P_19@P_Z9Z9^];.M^];.M^]4?7
 BDFChar: 305 930 11 0 8 0 16
 *rn$G?i[tB^];.M^]=94^];.M^];.M^];.M?iVp3*rl9@
 BDFChar: 306 931 11 0 8 0 16
@@ -9691,13 +9691,13 @@ s1f$C$ig\9$ig\9$ig\9$ig\9$ig\9$ig\9$ig\9$ig8-
 BDFChar: 308 933 11 0 9 0 16
 ^qdb$^qaB/@=U-61B8Hr*WQTK$ig\9$ig\9$ig\9$ig8-
 BDFChar: 309 934 11 0 9 0 16
-It5bYbeVH<beVH<beVH<beVH<beS^Y$ig\9$ig\9$ig8-
+56,PNbeVH<beVH<beVH<beVH<D1FhN$ig\9$ig\9$ig8-
 BDFChar: 310 935 11 0 8 0 16
 _19@P_16"q@fSCe2?4]s)uqks2?74e@fX>q_19@P_12Lc
 BDFChar: 311 936 11 0 9 0 16
-beVH<beVH<beVH<beVH<beVH<beS^Y$ig\9$ig\9$ig8-
+N'PV&beVH<beVH<beVH<beVH<D1FhN$ig\9$ig\9$ig8-
 BDFChar: 312 937 11 0 8 0 16
-IfR<8_19@P_19@P_19@P_19@P_19@P_19@PG5r<WpOE5D
+4of'm_19@P_19@P_19@P_19@P_19@P_16"q2?4EkpOE5D
 BDFChar: 313 938 11 0 0 0 0
 z
 BDFChar: 314 939 11 0 0 0 0
@@ -9712,22 +9712,22 @@ BDFChar: 318 943 11 0 0 0 0
 z
 BDFChar: 319 944 11 0 0 0 0
 z
-BDFChar: 320 945 11 0 8 0 10
-It5@c_19@P_19@P_19@P_19FRI=M:t
+BDFChar: 320 945 11 0 9 0 10
+5Cd6o_19@P_19@P_19@P_16$G4hq$t
 BDFChar: 321 946 11 0 8 -4 14
-IfR<8_19@P_19@P_1;Oc_19@P_19@P_19@PrrBh7^];.M^]4?7
+4of'm_19@P_19@P_Z9Z9_Z7N'_19@P_19E'rW'_6^];.MJ,fQL
 BDFChar: 322 947 11 0 8 -4 10
 _19@P_19@P@fSCe)uqks@fU!=@fU!=@fSCe)uos=
 BDFChar: 323 948 11 0 8 0 16
-5Cd,A?iVk\(]XsEIK77c_19@P_19@P_19@P_19@PIfKHK
+5Cd,A?iVk\(]XsE4of'm_19@P_19@P_19@P_16"q4obQ_
 BDFChar: 324 949 11 0 8 0 10
-IfR<8_19<$^]8`^^];.M_19@PIfKHK
+4of'm_19<$?iW:h?i[tB_16"q4obQ_
 BDFChar: 325 950 11 0 8 -3 16
-s*t1O"oo&3(]Z5i0E>J\?iXR7?iXR7?iVk\0E;pi%fcW\!rrN*
+It5E:"oo&3(]Z5i0E>J\?iXR7?iXR7?iVk\0E;pi%fcW\!rrN*
 BDFChar: 326 951 11 0 8 -4 10
-rrBlc_19@P_19@P_19@P_19@P_12Q:!It3$!It.M
+h>lR9_19@P_19@P_19@P_19@P_12Q:!It3$!.Y%L
 BDFChar: 327 952 11 0 8 0 16
-IfR<8_19@P_19@P@=U(_NI\iq_19@P_19@P_19@PIfKHK
+4of'm_19@P_19@P@=U(_NI\iq_19@P_19@P_16"q4obQ_
 BDFChar: 328 953 11 2 7 0 10
 i*]r#?smAM?sl(s
 BDFChar: 329 954 11 0 8 0 10
@@ -9735,33 +9735,33 @@ _19@P_Z7[VbQ.D<bQ,W__Z7N'_12Lc
 BDFChar: 330 955 11 0 8 0 16
 ?iVk\(]YBQ$ig\9"oo,5%KIFJ)ZVYo0n<\_@=Z1E_12Lc
 BDFChar: 331 956 11 0 8 -4 10
-_19@P_19@P_19@P_19@P_19@Ps+%lb^];.M^]4?7
+_19@P_19@P_19@P_19@P_1:QrrIDZ`^];.MJ,fQL
 BDFChar: 332 957 11 0 8 0 10
 _19@P_19@P@fU!=2?5W8)uprY#QOi)
 BDFChar: 333 958 11 0 8 -3 16
-s*t1O"oo&3(]YBQ(]Y$G(]Z5i?iXR7?iXR70E;pi%fcW\!rrf2
+It5E:"oo&3(]YBQ(]Y$G(]Z5i?iXR7?iXR70E;pi%fcW\!rrf2
 BDFChar: 334 959 11 0 8 0 10
-IfR<8_19@P_19@P_19@P_19@PIfKHK
+4of'm_19@P_19@P_19@P_16"q4obQ_
 BDFChar: 335 960 11 0 8 0 10
 s+%q9_19@P_19@P_19@P_19@P_12Lc
 BDFChar: 336 961 11 0 8 -4 10
-IfR<8_19@P_19@P_19@P_19@PrrBh7^];.M^]4?7
+4of'm_19@P_19@P_19@P_1:PGh>k=k^];.MJ,fQL
 BDFChar: 337 962 11 0 8 -3 10
-IfR<8_19<$^];.M^];.M^];.MIK0HM!rsAB
-BDFChar: 338 963 11 0 9 0 10
-J&&r%_19@P_19@P_19@P_19@PIfKHK
+4of'm_19<$^];.M^];.M^]7aB4obZb!rsAB
+BDFChar: 338 963 11 0 9 0 11
+!5Lh7@fX>q_19@P_19@P_19@P@fS[m
 BDFChar: 339 964 11 0 8 0 10
 s*tpd(]YBQ(]YBQ(]YBQ(]YBQ%fcS0
 BDFChar: 340 965 11 0 8 0 10
-_19@P_19@P_19@P_19@P_19@PIfKHK
+_19@P_19@P_19@P_19@P_16"q4obQ_
 BDFChar: 341 966 11 0 9 -4 10
-It5bYbeVH<beVH<beVH<beVH<It.q-$ig\9$ig8-
+56,PNbeVH<beVH<beVH<beS(G56))l$ig\9$ig8-
 BDFChar: 342 967 11 0 8 -4 10
 _19@P@fU!=2?5W8)uprY)uqks2?74e@fX>q_12Lc
-BDFChar: 343 968 11 0 9 -4 10
-beVH<beVH<beVH<beVH<beVH<It.q-$ig\9$ig8-
+BDFChar: 343 968 11 0 9 -3 10
+beVH<beVH<beVH<beVH<beS(G56))l$ig\9
 BDFChar: 344 969 11 0 9 0 10
-@=Z//^qdb$^qe10beVH<beX7oF+=5j
++TPr$^qdb$^qe10beVH<beS^Y1B7CT
 BDFChar: 345 970 11 0 0 0 0
 z
 BDFChar: 346 971 11 0 0 0 0
@@ -11230,7 +11230,7 @@ BDFRefChar: 129 257 2 10 N
 BDFRefChar: 129 33 0 0 N
 BDFRefChar: 130 102 0 4 N
 BDFRefChar: 130 33 0 0 N
-BDFRefChar: 131 110 1 4 N
+BDFRefChar: 131 110 1 5 N
 BDFRefChar: 131 33 0 0 N
 BDFRefChar: 133 118 1 1 N
 BDFRefChar: 133 35 0 0 N
@@ -11270,11 +11270,11 @@ BDFRefChar: 153 252 1 10 N
 BDFRefChar: 153 53 0 0 N
 BDFRefChar: 154 102 0 4 N
 BDFRefChar: 154 53 0 0 N
-BDFRefChar: 155 260 1 10 N
+BDFRefChar: 155 260 0 10 N
 BDFRefChar: 155 57 0 0 N
-BDFRefChar: 158 259 0 4 N
+BDFRefChar: 158 259 1 4 N
 BDFRefChar: 158 65 0 0 N
-BDFRefChar: 159 260 0 4 N
+BDFRefChar: 159 260 1 4 N
 BDFRefChar: 159 65 0 0 N
 BDFRefChar: 160 252 1 4 N
 BDFRefChar: 160 65 0 0 N
@@ -11282,7 +11282,7 @@ BDFRefChar: 161 257 2 4 N
 BDFRefChar: 161 65 0 0 N
 BDFRefChar: 162 102 0 -2 N
 BDFRefChar: 162 65 0 0 N
-BDFRefChar: 163 110 1 -2 N
+BDFRefChar: 163 110 1 -1 N
 BDFRefChar: 163 65 0 0 N
 BDFRefChar: 165 118 1 1 N
 BDFRefChar: 165 67 0 0 N
@@ -11294,13 +11294,13 @@ BDFRefChar: 168 252 1 4 N
 BDFRefChar: 168 69 0 0 N
 BDFRefChar: 169 102 0 -2 N
 BDFRefChar: 169 69 0 0 N
-BDFRefChar: 170 259 1 5 N
+BDFRefChar: 170 259 1 6 N
 BDFRefChar: 170 235 0 0 N
-BDFRefChar: 171 260 1 5 N
+BDFRefChar: 171 260 1 6 N
 BDFRefChar: 171 235 0 0 N
-BDFRefChar: 172 252 1 5 N
+BDFRefChar: 172 252 1 6 N
 BDFRefChar: 172 235 0 0 N
-BDFRefChar: 173 102 0 -1 N
+BDFRefChar: 173 102 0 0 N
 BDFRefChar: 173 235 0 0 N
 BDFRefChar: 175 257 2 4 N
 BDFRefChar: 175 78 0 0 N
@@ -11314,9 +11314,9 @@ BDFRefChar: 179 257 2 4 N
 BDFRefChar: 179 79 0 0 N
 BDFRefChar: 180 102 0 -2 N
 BDFRefChar: 180 79 0 0 N
-BDFRefChar: 183 259 0 4 N
+BDFRefChar: 183 259 1 4 N
 BDFRefChar: 183 85 0 0 N
-BDFRefChar: 184 260 0 4 N
+BDFRefChar: 184 260 1 4 N
 BDFRefChar: 184 85 0 0 N
 BDFRefChar: 185 252 1 4 N
 BDFRefChar: 185 85 0 0 N
@@ -11326,13 +11326,13 @@ BDFRefChar: 187 260 0 4 N
 BDFRefChar: 187 89 0 0 N
 BDFRefChar: 189 102 0 -2 N
 BDFRefChar: 189 89 0 0 N
-BDFRefChar: 190 109 -1 0 N
+BDFRefChar: 190 109 -1 3 N
 BDFRefChar: 190 33 0 0 N
-BDFRefChar: 191 109 -1 -6 N
+BDFRefChar: 191 109 0 -3 N
 BDFRefChar: 191 65 0 0 N
 BDFRefChar: 192 254 1 10 N
 BDFRefChar: 192 33 0 0 N
-BDFRefChar: 193 254 1 4 N
+BDFRefChar: 193 254 2 4 N
 BDFRefChar: 193 65 0 0 N
 BDFRefChar: 194 256 0 2 N
 BDFRefChar: 194 33 0 0 N
@@ -11358,9 +11358,9 @@ BDFRefChar: 204 253 1 10 N
 BDFRefChar: 204 36 0 0 N
 BDFRefChar: 205 250 8 7 N
 BDFRefChar: 205 68 0 0 N
-BDFRefChar: 206 109 -1 0 N
+BDFRefChar: 206 109 -1 3 N
 BDFRefChar: 206 37 0 0 N
-BDFRefChar: 207 109 -1 -6 N
+BDFRefChar: 207 109 -1 -3 N
 BDFRefChar: 207 69 0 0 N
 BDFRefChar: 208 254 1 10 N
 BDFRefChar: 208 37 0 0 N
@@ -11400,15 +11400,15 @@ BDFRefChar: 225 252 1 10 N
 BDFRefChar: 225 72 0 0 N
 BDFRefChar: 226 257 2 10 N
 BDFRefChar: 226 41 0 0 N
-BDFRefChar: 227 257 2 5 N
+BDFRefChar: 227 257 2 6 N
 BDFRefChar: 227 235 0 0 N
-BDFRefChar: 228 109 0 0 N
+BDFRefChar: 228 109 0 3 N
 BDFRefChar: 228 41 0 0 N
-BDFRefChar: 229 109 0 -5 N
+BDFRefChar: 229 109 0 -1 N
 BDFRefChar: 229 235 0 0 N
 BDFRefChar: 230 254 2 10 N
 BDFRefChar: 230 41 0 0 N
-BDFRefChar: 231 254 2 5 N
+BDFRefChar: 231 254 2 6 N
 BDFRefChar: 231 235 0 0 N
 BDFRefChar: 232 256 0 2 N
 BDFRefChar: 232 41 0 0 N
@@ -11416,9 +11416,9 @@ BDFRefChar: 233 256 0 2 N
 BDFRefChar: 233 73 0 0 N
 BDFRefChar: 234 255 2 10 N
 BDFRefChar: 234 41 0 0 N
-BDFRefChar: 236 252 0 10 N
+BDFRefChar: 236 252 1 10 N
 BDFRefChar: 236 42 0 0 N
-BDFRefChar: 237 252 0 7 N
+BDFRefChar: 237 252 1 7 N
 BDFRefChar: 237 74 0 0 N
 BDFRefChar: 238 250 0 -11 N
 BDFRefChar: 238 43 0 0 N
@@ -11426,11 +11426,11 @@ BDFRefChar: 239 250 0 -11 N
 BDFRefChar: 239 75 0 0 N
 BDFRefChar: 240 260 0 10 N
 BDFRefChar: 240 44 0 0 N
-BDFRefChar: 241 260 0 10 N
+BDFRefChar: 241 260 1 10 N
 BDFRefChar: 241 76 0 0 N
 BDFRefChar: 242 250 0 -11 N
 BDFRefChar: 242 44 0 0 N
-BDFRefChar: 243 250 0 -11 N
+BDFRefChar: 243 250 1 -11 N
 BDFRefChar: 243 76 0 0 N
 BDFRefChar: 244 250 8 7 N
 BDFRefChar: 244 44 0 0 N
