@@ -1,6 +1,6 @@
 #!/bin/tcsh -f
 
-set list = ( /usr/share/fonts/misc /usr/share/fonts/X11/misc /usr/local/share/fonts/misc )
+set list = ( /usr/local/share/fonts/misc /usr/share/fonts/misc /usr/share/fonts/X11/misc )
 foreach f ( $list )
 	if ( -d $f ) then
 		set dest = $f
