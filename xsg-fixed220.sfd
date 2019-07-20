@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1559645704
-ModificationTime: 1563665560
+ModificationTime: 1563666248
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -309,7 +309,7 @@ StartChar: at
 Encoding: 64 64 32
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -917,7 +917,7 @@ StartChar: registered
 Encoding: 174 174 108
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -9073,7 +9073,7 @@ rrWH6*!QKI!s8YC_gVRc
 BDFChar: 20 52 10 0 7 0 13
 %hBTu1G`NN_o)KV!s8N'
 BDFChar: 21 53 10 0 7 0 13
-s1lFc_#=E<!s8YC_gVRc
+s1lFcrW<6)!s8YC_gVRc
 BDFChar: 22 54 10 0 7 0 13
 4CGt?rklXk_o'C0_gVRc
 BDFChar: 23 55 10 0 7 0 13
@@ -9094,8 +9094,8 @@ BDFChar: 30 62 10 0 5 1 9
 ^gJi5$lC[+^]4?7
 BDFChar: 31 63 10 0 7 0 13
 I`'(@!sT/N(`4(i(`35Q
-BDFChar: 32 64 10 0 8 0 14
-IfR<8_19j^fmqb+fmqb+fmqb+fmqD!^];3$It.M!
+BDFChar: 32 64 10 0 9 0 11
+56,,BbeVrJg;)FXg;)FXg;)$b?iWCk
 BDFChar: 33 65 10 0 7 0 14
 4D)LK_o'C0s22al_o'@l
 BDFChar: 34 66 10 0 7 0 14
@@ -9236,8 +9236,8 @@ BDFChar: 101 167 10 0 6 -2 13
 I)a$20R1g]`b%=M%#2cL
 BDFChar: 102 168 10 0 4 10 11
 f[p0(
-BDFChar: 103 169 10 0 6 0 9
-3(/q0U8"ZN6oY/H
+BDFChar: 103 169 10 0 9 0 11
+56,,BbeW)NfYH.TfYH.ThS@@N@=UQB
 BDFChar: 104 170 10 1 5 7 13
 E#<iPGQ@L=
 BDFChar: 105 171 10 0 6 2 6
@@ -9246,8 +9246,8 @@ BDFChar: 106 172 10 0 4 2 4
 p_XhJ
 BDFChar: 107 173 10 1 3 2 2
 huE`W
-BDFChar: 108 174 10 0 6 0 9
-I"JZ(Wj8Y)Jp[Ou
+BDFChar: 108 174 10 0 9 0 11
+56,,Bgq_XZg;)FXgq_XZg;)FX@=UQB
 BDFChar: 109 175 10 1 6 13 13
 qu?]s
 BDFChar: 110 176 10 1 5 11 14
