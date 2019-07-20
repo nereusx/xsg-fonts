@@ -3,7 +3,7 @@ FontName: XSGFixed220Bold
 FullName: XSG Fixed 220 Bold
 FamilyName: XSG Fixed 220
 Weight: Bold
-Copyright: Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)
+Copyright: Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)\nSpecial version for T440S with 1920x1080 IPS screen
 UComments: "2019-6-4: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 DefaultBaseFilename: xsg-fixed220
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1559645704
-ModificationTime: 1559646910
+ModificationTime: 1563665560
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -9097,13 +9097,13 @@ I`'(@!sT/N(`4(i(`35Q
 BDFChar: 32 64 10 0 8 0 14
 IfR<8_19j^fmqb+fmqb+fmqb+fmqD!^];3$It.M!
 BDFChar: 33 65 10 0 7 0 14
-I`'(@_o'C0s22al_o'@l
+4D)LK_o'C0s22al_o'@l
 BDFChar: 34 66 10 0 7 0 14
-rklXk_o'Ck_o'C0_o)HR
+r5QXl_o'Ll`l#^3_oDTS
 BDFChar: 35 67 10 0 7 0 14
 I`'(=^qdb$^qdb$_o$p'
 BDFChar: 36 68 10 0 7 0 14
-rklXk_o'C0_o'C0_o)HR
+r5QXl_o'C0_o'C0_oDTS
 BDFChar: 37 69 10 0 7 0 14
 s1lFc^qdb`^qdb$^qfsM
 BDFChar: 38 70 10 0 7 0 14
@@ -9163,7 +9163,7 @@ BDFChar: 64 96 10 2 4 10 14
 BDFChar: 65 97 10 0 8 0 9
 IfR@d_Z7RS_Z7RS_Z7RS`rLI:
 BDFChar: 66 98 10 0 7 0 14
-^qdb$_#D6h_o'C0_o)HR
+^qdb$^u"+h_o'C0_o)HR
 BDFChar: 67 99 10 0 7 0 9
 I`'(=^qdb'_gVRc
 BDFChar: 68 100 10 0 7 0 14
@@ -9175,7 +9175,7 @@ BDFChar: 70 102 10 0 8 0 14
 BDFChar: 71 103 10 0 7 -3 9
 J&B1A_o'C0a*Rmm49,?]
 BDFChar: 72 104 10 0 7 0 14
-^qdb$_#D6h_o'C0_o'@l
+^qdb$_#EB3_o'C0_o'@l
 BDFChar: 73 105 10 0 7 0 12
 (`38J(`4),(`4),rr<$!
 BDFChar: 74 106 10 1 6 -3 12
@@ -9187,17 +9187,17 @@ i%Qi=0JG170JG170JFRK
 BDFChar: 77 109 10 0 7 0 9
 rnH2^gY:K;gY2].
 BDFChar: 78 110 10 0 7 0 9
-rklXk_o'C0_nuHS
+ro:o6_o'C0_nuHS
 BDFChar: 79 111 10 0 7 0 9
 I`'(@_o'C0_gVRc
 BDFChar: 80 112 10 0 7 -3 9
-rklXk_o'C0_u@He^]4?7
+hW)Mk_o'C0_u@He^]4?7
 BDFChar: 81 113 10 0 7 -3 9
 J&B1A_o'C0a*Rmj!rr<$
 BDFChar: 82 114 10 0 7 0 9
 s22Xf^qdb$^q]pM
 BDFChar: 83 115 10 0 7 0 9
-I`'(=IKK\i_gVRc
+I`&t:IKKZS_gVRc
 BDFChar: 84 116 10 0 7 0 14
 0JG170`Ng\0JG170JFRK
 BDFChar: 85 117 10 0 8 0 9
@@ -9209,13 +9209,13 @@ _o'C0gY:K;s(262
 BDFChar: 88 120 10 0 7 0 9
 _o$(K(`5AI_nuHS
 BDFChar: 89 121 10 0 7 -3 9
-_o'C0_o'C0_g_am49,?]
+_o'C0_o'C0a*Rmm49,?]
 BDFChar: 90 122 10 0 7 0 9
 rrWH6(bf@5_#FB7
 BDFChar: 91 123 10 1 6 -1 14
 4CDQ)?smBX?smAM?smA)
-BDFChar: 92 124 10 3 4 -1 14
-^qdb$^qdb$^qdb$^qdb$
+BDFChar: 92 124 10 3 4 -1 15
+^qdb$^qdb$^qdb$^qdb$^]4?7
 BDFChar: 93 125 10 1 6 -1 14
 n/)uZ(`4(u(`4),(`4+Z
 BDFChar: 94 126 10 0 7 11 12
