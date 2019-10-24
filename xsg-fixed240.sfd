@@ -39,13 +39,12 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: 24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 76 24
+WinInfo: 0 76 22
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 1074
@@ -9491,10 +9490,10 @@ BDFChar: 6 38 10 0 8 0 14
 )uq_o1&s'01]S?m2umapbQ,W_`dksW_Z4<L4b*M4
 BDFChar: 7 39 10 2 4 12 16
 i8A!N^]4?7
-BDFChar: 8 40 10 1 5 -1 15
-(bf?*^qdb$^qdb$^gLP((]XO9
-BDFChar: 9 41 10 2 6 -1 15
-^gJiM(`4),(`4),(bdXO^]4?7
+BDFChar: 8 40 10 1 5 -1 16
+(bf?*^qdb$^qdb$^qa>c0Gjci
+BDFChar: 9 41 10 2 6 -1 16
+^gJiM(`4),(`4),(`4q\@))aB
 BDFChar: 10 42 10 0 7 4 8
 Aj$)UAcMf2
 BDFChar: 11 43 10 0 7 3 9
@@ -9540,7 +9539,7 @@ BDFChar: 30 62 10 1 6 2 10
 BDFChar: 31 63 10 0 7 0 15
 I`'(@!s8`9$lBfu(]YBi
 BDFChar: 32 64 10 0 8 0 15
-IfR<8_19j^fmqb+fmqb+fmqb+fmqb+c[`e2^]8k7
+4of'm_19j^gORt-fmqb+fmqb+fmqb+c[`e2@=UQB
 BDFChar: 33 65 10 0 7 0 15
 I`'(@_o'C0s22al_o'C0
 BDFChar: 34 66 10 0 7 0 15
@@ -9593,12 +9592,12 @@ BDFChar: 57 89 10 0 7 0 15
 _o'C0_e*LC4;\nP(`4),
 BDFChar: 58 90 10 0 7 0 15
 rrW?-"q1nW(bdXO@)0SX
-BDFChar: 59 91 10 2 6 -1 15
-pqX\\^qdb$^qdb$^qdb$p](9o
+BDFChar: 59 91 10 2 6 -1 16
+pqX\\^qdb$^qdb$^qdb$_"[m0
 BDFChar: 60 92 10 0 8 0 15
 ^];.M?iXR70E<d,(]YBQ$ig\9"oni-!rrE'!It3$
-BDFChar: 61 93 10 0 4 -1 15
-p_Xhb(`4),(`4),(`4),p](9o
+BDFChar: 61 93 10 1 5 -1 16
+p_Xhb(`4),(`4),(`4),)#+(2
 BDFChar: 62 94 10 2 7 8 15
 0R3LL0JG17
 BDFChar: 63 95 10 0 10 -1 -1
