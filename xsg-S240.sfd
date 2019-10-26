@@ -44,7 +44,7 @@ NameList: AGL For New Fonts
 DisplaySize: 24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 76 24
+WinInfo: 0 76 22
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 1074
@@ -9858,7 +9858,7 @@ BDFChar: 68 100 10 0 7 0 15
 BDFChar: 69 101 10 0 7 0 11
 4D)LK_o)Mi^qa>A
 BDFChar: 70 102 10 0 7 0 15
-%i?uSr%KfY0JG170JG17
+%i?uSr\-#[0JG170JG17
 BDFChar: 71 103 10 0 7 -3 11
 4(lIK_o'C0_o#tK!sUjf
 BDFChar: 72 104 10 0 7 0 15
@@ -9870,7 +9870,7 @@ BDFChar: 74 106 10 1 5 -3 14
 BDFChar: 75 107 10 0 7 0 14
 ^qdb'_oBpQnF5)S`l#[o
 BDFChar: 76 108 10 0 7 0 14
-n/)uZ(`4),(`4),(`3b`
+n1ZOM0JG170JG170Gk<#
 BDFChar: 77 109 10 0 8 0 11
 rrC/kaahK`aahK`aahK`aahK`aahK`
 BDFChar: 78 110 10 0 7 0 11
@@ -9886,7 +9886,7 @@ ro:f0^qdb$^qdb$
 BDFChar: 83 115 10 0 7 0 11
 5%DFE?p"Vq","U@
 BDFChar: 84 116 10 0 7 0 15
-(`4),rtlRi(`4),(`4)#
+0JG17s"H,\0JG170JF=S
 BDFChar: 85 117 10 0 7 0 11
 _o'C0_o'C0_o$+K
 BDFChar: 86 118 10 0 7 0 11
