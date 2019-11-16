@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: 17
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 594 54 20
+WinInfo: 0 54 20
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 1138
@@ -10205,19 +10205,19 @@ BDFEndProperties
 Resolution: 100
 BDFChar: 0 32 8 4 4 -2 -2
 z
-BDFChar: 1 33 8 3 3 0 12
-J:N0#J:N0#J:IWMJ,fQL
-BDFChar: 2 34 8 1 5 9 12
+BDFChar: 1 33 8 3 3 0 11
+J:N0#J:N0#J,k+M
+BDFChar: 2 34 8 1 5 8 11
 84\i(
 BDFChar: 3 35 8 0 7 0 10
 ,UEC8,U=W\s!/ii
-BDFChar: 4 36 8 0 6 0 12
+BDFChar: 4 36 8 0 6 -1 11
 -n'JCW2P(n.]RkE-ia5I
 BDFChar: 5 37 8 0 6 0 11
 7&3?Z&.fs,5X^K_
 BDFChar: 6 38 8 0 6 0 10
 0L.lG+>?]NN.cKW
-BDFChar: 7 39 8 3 4 9 13
+BDFChar: 7 39 8 3 4 7 11
 ^q`3#J,fQL
 BDFChar: 8 40 8 1 4 -1 12
 &0O5'J:N0#J:KmM+:nMQ
@@ -10327,11 +10327,11 @@ BDFChar: 60 92 8 0 5 0 11
 J:KmM+<V4,#RCP9
 BDFChar: 61 93 8 1 4 -1 12
 n.6-B&.fBa&.fBa&F]Z"
-BDFChar: 62 94 8 1 5 6 12
+BDFChar: 62 94 8 1 5 5 11
 +E7)u+<Vd,
 BDFChar: 63 95 8 0 7 -1 -1
 rr<$!
-BDFChar: 64 96 8 2 3 8 12
+BDFChar: 64 96 8 2 3 7 11
 5_+C#^]4?7
 BDFChar: 65 97 8 0 5 0 8
 I"[0+KS5#;F8u:@
@@ -10356,7 +10356,7 @@ BDFChar: 74 106 8 2 4 -2 11
 BDFChar: 75 107 8 0 5 0 11
 J:N0'Lle:FTTFt_
 BDFChar: 76 108 8 0 5 0 11
-^`XaB+<VdL+<VdH
+i#j-b+<VdL+<VdH
 BDFChar: 77 109 8 0 6 0 8
 r0!5+P*1ukOoPI^
 BDFChar: 78 110 8 0 5 0 8
@@ -12661,31 +12661,31 @@ BDFRefChar: 261 253 1 6 N
 BDFRefChar: 261 284 0 0 N
 BDFRefChar: 262 253 1 6 N
 BDFRefChar: 262 288 0 0 N
-BDFRefChar: 263 254 1 5 N
+BDFRefChar: 263 254 0 4 S
 BDFRefChar: 263 304 0 0 N
 BDFRefChar: 289 102 1 3 N
 BDFRefChar: 289 272 0 0 N
 BDFRefChar: 290 102 1 3 N
 BDFRefChar: 290 284 0 0 N
-BDFRefChar: 291 253 1 3 N
+BDFRefChar: 291 253 2 2 S
 BDFRefChar: 291 296 0 0 N
-BDFRefChar: 292 253 1 3 N
+BDFRefChar: 292 253 1 2 S
 BDFRefChar: 292 300 0 0 N
-BDFRefChar: 293 253 1 3 N
+BDFRefChar: 293 253 1 2 S
 BDFRefChar: 293 302 0 0 N
-BDFRefChar: 294 253 1 3 N
+BDFRefChar: 294 253 1 2 S
 BDFRefChar: 294 304 0 0 N
-BDFRefChar: 295 254 0 5 N
+BDFRefChar: 295 254 1 4 S
 BDFRefChar: 295 316 0 0 N
-BDFRefChar: 321 102 1 0 N
-BDFRefChar: 321 304 0 0 N
-BDFRefChar: 322 102 0 0 N
+BDFRefChar: 321 102 1 -1 S
+BDFRefChar: 321 304 1 0 N
+BDFRefChar: 322 102 0 -1 S
 BDFRefChar: 322 316 0 0 N
-BDFRefChar: 323 253 1 3 N
+BDFRefChar: 323 253 1 2 S
 BDFRefChar: 323 310 0 0 N
-BDFRefChar: 324 253 1 3 N
+BDFRefChar: 324 253 1 2 S
 BDFRefChar: 324 316 0 0 N
-BDFRefChar: 325 253 2 3 N
+BDFRefChar: 325 253 2 2 S
 BDFRefChar: 325 320 0 0 N
 BDFRefChar: 330 253 1 6 N
 BDFRefChar: 330 329 0 0 N
