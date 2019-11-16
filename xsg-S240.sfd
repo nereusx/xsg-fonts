@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1571880156
-ModificationTime: 1572027355
+ModificationTime: 1572402120
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,7 +44,7 @@ NameList: AGL For New Fonts
 DisplaySize: 24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 76 22
+WinInfo: 11780 76 22
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 1074
@@ -941,7 +941,7 @@ StartChar: plusminus
 Encoding: 177 177 111
 Width: 416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -9939,8 +9939,8 @@ BDFChar: 109 175 10 0 8 18 18
 s*t(L
 BDFChar: 110 176 10 1 5 12 15
 E7if^
-BDFChar: 111 177 10 0 7 0 8
-(`4+i(`4(irr<$!
+BDFChar: 111 177 10 0 7 0 9
+(`4+i(`4(i!<3$!
 BDFChar: 112 178 10 0 3 11 15
 i%SQSn,NFg
 BDFChar: 113 179 10 0 3 11 15
