@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: XSGTerm189Bold
 FullName: XSG Term 189 Bold
 FamilyName: XSG Term 189
@@ -10665,7 +10665,7 @@ BDFChar: 74 106 9 1 5 -3 11
 BDFChar: 75 107 9 0 6 0 11
 ^qdb*bh2FCnCYt)
 BDFChar: 76 108 9 0 7 0 11
-p_Xhb(`4),(`4+i
+p_Xhb(`4),(`4)#
 BDFChar: 77 109 9 0 7 0 8
 rnH2^gY:K;gAh3R
 BDFChar: 78 110 9 0 6 0 8

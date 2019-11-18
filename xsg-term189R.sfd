@@ -44,7 +44,7 @@ NameList: AGL For New Fonts
 DisplaySize: 18
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 51 19
+WinInfo: 663 51 19
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 1155
@@ -10444,7 +10444,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 18 1159 15 3 1 xsg
+BitmapFont: 18 1156 15 3 1 xsg
 BDFStartProperties: 34
 FONT 1 "-xsg-XSG Term 189-Regular-R-Normal--18-130-100-100-P-79-ISO10646-1"
 COMMENT 0 "Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)"
@@ -10654,8 +10654,8 @@ BDFChar: 84 116 9 0 5 0 11
 +<Vg)+<VdL+<VdH
 BDFChar: 85 117 9 0 5 0 8
 KS5#3KS5#;F8u:@
-BDFChar: 86 118 9 0 6 0 8
-JqASB6msGp&-)\1
+BDFChar: 86 118 9 0 5 0 8
+KS5#3KLeWf0E;(Q
 BDFChar: 87 119 9 0 6 0 8
 JqAT;P*1ukC]FG8
 BDFChar: 88 120 9 0 5 0 8
@@ -10830,8 +10830,8 @@ BDFChar: 172 238 9 0 0 0 0
 z
 BDFChar: 173 239 9 0 0 0 0
 z
-BDFChar: 174 240 9 0 6 0 12
-csX'pI)a1G`l?$<HiO-H
+BDFChar: 174 240 9 0 5 0 12
+TKo.]G_Ca'KS5#3GQ7^D
 BDFChar: 175 241 9 0 0 0 0
 z
 BDFChar: 176 242 9 0 0 0 0
@@ -11122,12 +11122,12 @@ BDFChar: 318 951 9 0 5 -3 8
 \AX&RKS5#3KEMD\
 BDFChar: 319 952 9 0 5 0 11
 G_Ca'6o9RMKS5#'
-BDFChar: 320 953 9 2 6 0 8
+BDFChar: 320 953 9 1 5 0 8
 ^d(.M5X7S"2uipY
 BDFChar: 321 954 9 0 5 0 8
 KSY__^n?dFKE(uP
 BDFChar: 322 955 9 0 5 0 11
-GQ\-PI"[0+KS5#3
+GQ\.sKS5#3KS5#3
 BDFChar: 323 956 9 0 5 -3 8
 KS5#3KS5#;oRMIB
 BDFChar: 324 957 9 0 5 0 8
@@ -11172,12 +11172,6 @@ BDFChar: 343 976 9 0 5 0 11
 3(/FQKSY`"`.Weg
 BDFChar: 344 977 9 0 5 0 11
 G_Ca'6o9RMKS5#'
-BDFChar: -1 978 9 0 0 0 0
-z
-BDFChar: -1 979 9 0 0 0 0
-z
-BDFChar: -1 980 9 0 0 0 0
-z
 BDFChar: 345 981 9 0 6 -2 10
 &.j5PP*1ukP*12(&-)\1
 BDFChar: 346 982 9 0 7 0 8
@@ -13014,7 +13008,7 @@ BDFRefChar: 277 269 2 5 N
 BDFRefChar: 277 300 0 0 N
 BDFRefChar: 278 269 2 5 N
 BDFRefChar: 278 304 0 0 N
-BDFRefChar: 279 270 2 4 N
+BDFRefChar: 279 270 0 4 S
 BDFRefChar: 279 320 0 0 N
 BDFRefChar: 305 102 1 3 N
 BDFRefChar: 305 288 0 0 N
@@ -13026,11 +13020,11 @@ BDFRefChar: 308 269 2 2 N
 BDFRefChar: 308 316 0 0 N
 BDFRefChar: 309 269 2 2 N
 BDFRefChar: 309 318 0 0 N
-BDFRefChar: 310 269 3 2 N
+BDFRefChar: 310 269 2 2 S
 BDFRefChar: 310 320 0 0 N
 BDFRefChar: 311 270 1 4 N
 BDFRefChar: 311 332 0 0 N
-BDFRefChar: 337 102 2 0 N
+BDFRefChar: 337 102 0 0 S
 BDFRefChar: 337 320 0 0 N
 BDFRefChar: 338 102 1 0 N
 BDFRefChar: 338 332 0 0 N
