@@ -44,7 +44,7 @@ NameList: AGL For New Fonts
 DisplaySize: 18
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 663 51 19
+WinInfo: 0 51 19
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 1155
@@ -10634,8 +10634,8 @@ BDFChar: 74 106 9 1 4 -3 11
 &.ej2&.fBa&.fBa&0Sag
 BDFChar: 75 107 9 0 5 0 11
 J:N0'Lle:FTTFt_
-BDFChar: 76 108 9 0 6 0 11
-n.6-B&.fBa&.fB_
+BDFChar: 76 108 9 0 5 0 11
+i#j-b+<VdL+<VdH
 BDFChar: 77 109 9 0 6 0 8
 r0!5+P*1ukOoPI^
 BDFChar: 78 110 9 0 5 0 8
