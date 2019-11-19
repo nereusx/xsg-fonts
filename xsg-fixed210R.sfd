@@ -9004,7 +9004,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 21 1075 18 3 1 xsg
+BitmapFont: 21 1072 18 3 1 xsg
 BDFStartProperties: 34
 FONT 1 "-xsg-XSG Fixed 210-Regular-R-Normal--21-150-100-100-P-87-ISO10646-1"
 COMMENT 0 "Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)"
@@ -9076,7 +9076,7 @@ BDFChar: 15 47 10 0 8 -2 15
 !.Y'"!<<-#!WW9%"98Q)#QP,1&-*7A+93Ma5QF%LJ,k*"
 BDFChar: 16 48 10 0 6 0 13
 I"I*-MMdR[U8#NAJp[Ou
-BDFChar: 17 49 10 0 6 0 13
+BDFChar: 17 49 10 1 7 0 13
 &26qB&.fBa&.fBa&H2Y0
 BDFChar: 18 50 10 0 6 0 13
 I"HqO":,P]5_+B:K)P`M
@@ -9748,12 +9748,6 @@ BDFChar: 351 976 10 0 5 0 13
 3(-/fKS5/C\AX&RLi<=o
 BDFChar: 352 977 10 0 6 0 13
 4@2A$68AlLJqAT+69G5J
-BDFChar: -1 978 10 0 0 0 0
-z
-BDFChar: -1 979 10 0 0 0 0
-z
-BDFChar: -1 980 10 0 0 0 0
-z
 BDFChar: 353 981 10 0 6 -2 11
 &.j5PP*1ukP*1uU&.egA
 BDFChar: 354 982 10 0 6 0 9
