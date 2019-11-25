@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1552228872
-ModificationTime: 1574098351
+ModificationTime: 1574676576
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,10 +44,10 @@ NameList: AGL For New Fonts
 DisplaySize: 18
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 51 51 19
+WinInfo: 9078 51 19
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 1155
+BeginChars: 65536 1165
 
 StartChar: space
 Encoding: 32 32 0
@@ -10443,8 +10443,88 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni2015
+Encoding: 8213 8213 1155
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 1156
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 1157
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: figuredash
+Encoding: 8210 8210 1158
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2011
+Encoding: 8209 8209 1159
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 1160
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: diamond
+Encoding: 9830 9830 1161
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: notequal
+Encoding: 8800 8800 1162
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni25B8
+Encoding: 9656 9656 1163
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: triagrt
+Encoding: 9658 9658 1164
+Width: 416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 18 1156 15 3 1 xsg
+BitmapFont: 18 1165 15 3 1 xsg
 BDFStartProperties: 34
 FONT 1 "-xsg-XSG Term 189-Bold-R-Normal--18-130-100-100-P-79-ISO10646-1"
 COMMENT 0 "Copyright (C) 2015-2019 Nicholas Christopoulos (nereus@freemail.gr)"
@@ -12792,6 +12872,26 @@ BDFChar: 1153 1150 9 0 7 0 13
 IK1X*_o'C0_o(6`gL^Ec
 BDFChar: 1154 1151 9 0 6 0 11
 rVuq7`l?$<f%/Dg
+BDFChar: 1155 8213 9 0 8 6 6
+s*t(L
+BDFChar: 1156 8212 9 0 7 6 6
+rr<$!
+BDFChar: 1157 8211 9 0 6 6 6
+rVuou
+BDFChar: 1158 8210 9 1 6 6 6
+qu?]s
+BDFChar: 1159 8209 9 1 5 6 6
+p](9o
+BDFChar: 1160 8208 9 2 5 6 6
+n,NFg
+BDFChar: 1161 9830 9 0 6 3 9
+&3,(:HoMZ;
+BDFChar: 1162 8800 9 0 6 0 10
+"q1q>(bdZC@)0PX
+BDFChar: 1163 9656 9 0 7 2 8
+_!q:%r:%K%
+BDFChar: 1164 9658 9 0 7 3 7
+i;EWQhuE`W
 BDFRefChar: 126 251 -1 5 N
 BDFRefChar: 126 33 0 0 N
 BDFRefChar: 127 252 -1 5 N
