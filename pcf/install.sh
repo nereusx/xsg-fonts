@@ -9,8 +9,8 @@ foreach f ( $list )
 end
 
 if ( $?dest ) then
-	install -m 0644 -o root -g root *.pcf.gz $dest
-	fc-cache -rsvf
+	sudo install -m 0644 -o root -g root *.pcf.gz $dest
+	sudo fc-cache -rsvf
 else
 	echo "font directory not found"
 endif
